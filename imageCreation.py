@@ -15,7 +15,6 @@ class SocialMediaImageAutomation:
     and output type which is one of a few preset options.
     """
 
-
     def __init__(self, data_src_file_name, media_templates, local_file_folder="resources/",output_path="output/"):
 
         # Verbose output toggle
