@@ -15,31 +15,41 @@ class SocialMediaImageAutomation:
     and output type which is one of a few preset options.
     """
 
-    def __init__(self, data_src_file_name, media_templates, local_file_folder="resources/",output_path="output/"):
+    def __init__(self, data_src_file_name, media_templates, local_file_folder="resources/",output_path="social-media/"):
 
         # Verbose output toggle
         self.verbose = True
+        # Verbose output toggle
+        self.common_image = "https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif"
         # Get the data source csv file
         self._data_src_file_name = data_src_file_name
         # Local resources directory pathdrive
         self.local_resources_path = local_file_folder
+        # Local images
+        self.local_images = {
+            "HKG18-300K1": "Leendert-van-Doorn.jpg",
+            "HKG18-500K2": "laura-dekker.jpg"
+        }
         # Local Output path for images
         self.output_path = os.getcwd() + "/" + output_path
+        # Local Output path for images
+        self.second_output_path = os.getcwd() + "/" + "video/"
         # Circle Thumbnail Size
         self.circle_thumb_size = (300, 300)
 
         # Define the keys and their column numbers in the spreadsheet
         self.user_input = {
-                            "title":3,
+                            "title":4,
                             "session_id":0,
                             "position":11,
                             "speakers":10,
                             "tracks":9,
-                            "photo":12,
-                            "keywords":18
+                            "photo":13,
+                            "keywords":18,
+                            "emails": 12
                             }
 
-        self.types = ["HKG18-Video-Placeholder-BG.jpg", "SFO17 Social Media-placeholder.jpg"]
+        self.types = ["HKG18-Video-Placeholder-BG.jpg", "HKG18-Social-Media-bg.jpg"]
 
         # Youtube Thumbnail Image URl
         self.youtube_thumbnail_image = "https://img.youtube.com/vi/{0}/sddefault.jpg"
@@ -56,6 +66,16 @@ class SocialMediaImageAutomation:
         self.name_offset = [940,70]
         self.position_offset = [940,130]
         self.event_hash_tag_offset = [[500,750],120]
+        
+        
+        # Positions of elements
+        self.second_photo_offset = (900,20)
+        self.second_title_offset = [28,210]
+        self.second_keywords_offset = [30,440]
+        self.second_track_offset = [30,183]
+        self.second_name_offset = [940,70]
+        self.second_position_offset = [940,130]
+        self.second_event_hash_tag_offset = [[500,750],120]
 
 
         self.event_hash_tag = "#HKG18"
@@ -95,12 +115,13 @@ class SocialMediaImageAutomation:
                 speaker_names = each[self.user_input["speakers"]]
                 keywords = each[self.user_input["keywords"]]
                 track = each[self.user_input["tracks"]]
-                if "://" in each[13]:
-                    photo = each[13]
+                emails = each[self.user_input["emails"]]
+                if "://" in each[self.user_input["photo"]]:
+                    photo = each[self.user_input["photo"]]
                 else:
                     photo = ""
 
-                new_list = [title,speaker_names,track,photo,position,session_id,keywords]
+                new_list = [title,speaker_names,track,photo,position,session_id,keywords,emails]
                 data.append(new_list)
             # for each in data:
             #     print(each)
@@ -151,6 +172,7 @@ class SocialMediaImageAutomation:
             position = speaker[4]
             session_id = speaker[5]
             keywords = speaker[6]
+            emails = speaker[7]
 
             print("Session ID: {0}".format(session_id))
             print("Session Title: {0}".format(title))
@@ -159,80 +181,128 @@ class SocialMediaImageAutomation:
             print("Speaker Image: {0}".format(image_name))
             print("Speaker Position: {0}".format(position))
             print("Keywords: {0}".format(keywords))
+            print("Emails: {0}".format(emails))
 
             if title == "" or session_id == "":
                 pass
             else:
+                print("Image Name:",image_name)
+                print("Common Image:",self.common_image)
                 if name == "":
                     name = session_id
-                if "://" in image_name:
-                    image_file_name = self.grab_photo(image_name)
-                elif image_name == "":
-                    image_file_name = False
+                if session_id in self.local_images:
+                    image_file_name = self.local_resources_path + self.local_images[session_id]
                 else:
-                    image_file_name = self.local_resources_path + image_name
+                    if image_name == self.common_image:
+                        image_file_name = False
+                    elif "://" in image_name:
+                        image_file_name = self.grab_photo(image_name)
+                    elif image_name == "":
+                        image_file_name = False
+                    else:
+                        image_file_name = self.local_resources_path + image_name
 
                 print("IMAGE: {0}".format(image_file_name))
-
-                if image_file_name != False:
-                    thumbnail = self.create_normal_thumbnail(image_file_name)
 
                 background_image = Image.open(media_template).convert("RGBA")
 
                 background_width, background_height = background_image.size
 
 
-                if image_file_name:
-                    # Paste the generated circular thumbnail.
-                    speaker_image_w, speaker_image_h = thumbnail.size
-                    speaker_image_offset_calculated = [background_width - (speaker_image_w + 60), background_height - speaker_image_h - 15]
-                    background_image.paste(thumbnail, speaker_image_offset_calculated, thumbnail)
-
-                if keywords:
-                    if keywords == "keywords":
-                        actual_keywords = False
-                    elif keywords == "":
-                        actual_keywords = False
-                    else:
-                        actual_keywords = keywords.split(",")
-
-                # Get the draw object from ImageDraw.Draw() method
-                background_image_draw = ImageDraw.Draw(background_image)
-
-
+        
                 if media_template in self.types:
                     if media_template == self.types[0]:
+                        
+                        if image_file_name != False:
+                            thumbnail = self.create_normal_thumbnail(image_file_name, 300)
+                    
+                            # Paste the generated circular thumbnail.
+                            speaker_image_w, speaker_image_h = thumbnail.size
+                            speaker_image_offset_calculated = [background_width - (speaker_image_w + 60), background_height - speaker_image_h]
+                            background_image.paste(thumbnail, speaker_image_offset_calculated, thumbnail)
+
+                        if keywords:
+                            if keywords == "keywords":
+                                actual_keywords = False
+                            elif keywords == "":
+                                actual_keywords = False
+                            else:
+                                actual_keywords = keywords.split(",")
+
+                        # Get the draw object from ImageDraw.Draw() method
+                        background_image_draw = ImageDraw.Draw(background_image)
                         # Video Generation
                         # Generate blue overlay
-
-                        # Speaker Name
-                        if len(name) < 20:
-                            name_font  = ImageFont.truetype(self.fonts["bold"], 27)
-                            name_w, name_h = name_font.getsize(name)
-                            name_offset_calculated = [background_width - (name_w + 60), 70]
-
-                            print("Calculated Name Width:", name_w)
-                            print("Calculated Offset: ", name_offset_calculated)
-                            background_image_draw = self.write_text(background_image_draw, name, name_offset_calculated, 27, self.fonts["bold"], self.colours["white"])
+                        email_string = ""
+                        if name == "Not Found":
+                            split_emails = emails.split(",")
+                            count = 0
+                            for email in split_emails:
+                                if count == 0:
+                                    email_string = email
+                                else:
+                                    email_string = email_string + ", " + email
+                                count += 1
+                                    
+                            email_font  = ImageFont.truetype(self.fonts["bold"], 20)
+                            email_w, email_h = email_font.getsize(email_string)
+                            x_offset = (background_width - email_w) - 60
+                            email_offset_calculated = [x_offset , 70]
+                            background_image_draw = self.write_text(background_image_draw, email_string, email_offset_calculated, 20, self.fonts["bold"], self.colours["white"])
                         else:
-                            background_image_draw = self.write_text(background_image_draw, name,self.name_offset,20, self.fonts["bold"], self.colours["white"])
+                            # Speaker Name
+                            if len(name) < 40:
+                                name_font  = ImageFont.truetype(self.fonts["bold"], 27)
+                                name_w, name_h = name_font.getsize(name)
+                                name_offset_calculated = [background_width - (name_w + 60), 70]
 
-                        # Speaker Position
-                        if position:
-                            position_font  = ImageFont.truetype(self.fonts["bold"], 27)
-                            position_w, position_h = name_font.getsize(position)
-                            position_offset_calculated = [background_width - (position_w + 60), 130]
-                            background_image_draw = self.write_text(background_image_draw, position,position_offset_calculated,27, self.fonts["regular"], self.colours["white"])
+                                print("Calculated Name Width:", name_w)
+                                print("Calculated Offset: ", name_offset_calculated)
+                                background_image_draw = self.write_text(background_image_draw, name, name_offset_calculated, 27, self.fonts["bold"], self.colours["white"])
+                            else:
+                                background_image_draw = self.write_text(background_image_draw, name,self.name_offset,20, self.fonts["bold"], self.colours["white"])
+                        
+                        
+                        # Session ID -----------
+                        if position == "Not Found":
+                            session_id_font  = ImageFont.truetype(self.fonts["regular"], 27)
+                            session_id_w, session_id_h = session_id_font.getsize(session_id)
+                            x_offset = (background_width - session_id_w) - 60
+                            session_id_offset_calculated = [x_offset , 130]
+                            
+                            background_image_draw = self.write_text(background_image_draw, session_id, session_id_offset_calculated,27, self.fonts["regular"], self.colours["white"])
+                        else:
+                            # Speaker Position
+                            if len(position) < 40:
+                                position_font  = ImageFont.truetype(self.fonts["regular"], 27)
+                                position_w, position_h = position_font.getsize(position)
+                                x_offset = (background_width - position_w) - 60
+                                position_offset_calculated = [x_offset , 130]
+                                background_image_draw = self.write_text(background_image_draw, position,position_offset_calculated,27, self.fonts["regular"], self.colours["white"])
+                            else:
+                                position_font_smaller  = ImageFont.truetype(self.fonts["regular"], 20)
+                                position_w_smaller, position_h_smaller = position_font_smaller.getsize(position)
+                                x_offset = (background_width - position_w_smaller) - 60
+                                position_offset_calculated_new = [x_offset , 130]
+                                background_image_draw = self.write_text(background_image_draw, position,position_offset_calculated_new,20, self.fonts["regular"], self.colours["white"])
+                        
 
                         # Session Track
                         background_image_draw = self.write_text(background_image_draw, track, self.track_offset, 26, self.fonts["bold"], self.colours["white"])
 
                         # Session Title
-                        background_image_draw = self.write_text(background_image_draw, title,self.title_offset, 72, self.fonts["bold"], self.colours["white"], multiline=True)
+                        if len(title) < 40:
+                            background_image_draw = self.write_text(background_image_draw, title,self.title_offset, 72, self.fonts["bold"], self.colours["white"], multiline=True)
+                        else:
+    
+                            background_image_draw = self.write_text(background_image_draw, title,self.title_offset, 56, self.fonts["bold"], self.colours["white"], multiline=True)
+                            
+                        
 
                         # Keywords
                         if actual_keywords:
                             counter = 0
+                            keyword_offset = []
                             for word in actual_keywords[0:3]:
 
                                 keyword_font = ImageFont.truetype(self.fonts["bold"], 44)
@@ -240,9 +310,9 @@ class SocialMediaImageAutomation:
                                 text_width, text_height = keyword_font.getsize(word)
 
                                 keyword_offset = self.keywords_offset
-                                self.keywords_offset[1] = background_height - 170
-                                background_image_draw = self.write_text(background_image_draw, "#" + word, self.keywords_offset, 44, self.fonts["regular"], self.colours["linaro-green"])
-                                self.keywords_offset[0] = self.keywords_offset[0] + (text_width + 50)
+                                keyword_offset[1] = background_height - 170
+                                background_image_draw = self.write_text(background_image_draw, "#" + word,keyword_offset, 44, self.fonts["regular"], self.colours["linaro-green"])
+                                keyword_offset[0] = keyword_offset[0] + (text_width + 50)
                                 counter += 1
 
                         # Event Hash Tag - If not speaker Image
@@ -256,26 +326,115 @@ class SocialMediaImageAutomation:
                         background_image.save(output_file, quality=95)
 
                     elif media_template == self.types[1]:
-                        # Social Media Image Generation
-                        if len(name) < 20:
+                        
+                        # Add the profile photo
+                        
+                        if image_file_name:
+                            
+                            thumbnail = self.create_normal_thumbnail(image_file_name, 200)
 
+                            # Paste the generated circular thumbnail.
+                            speaker_image_w, speaker_image_h = thumbnail.size
+                            speaker_image_offset_calculated = [background_width - 300, 20]
+                            background_image.paste(thumbnail, speaker_image_offset_calculated, thumbnail)
 
-                            background_image_draw = self.write_text(background_image_draw, name,[[500,750],330],44, self.fonts["bold"], self.colours["black"], centered=True)
+                        if keywords:
+                            if keywords == "keywords":
+                                actual_keywords = False
+                            elif keywords == "":
+                                actual_keywords = False
+                            else:
+                                actual_keywords = keywords.split(",")
+
+                        # Get the draw object from ImageDraw.Draw() method
+                        background_image_draw = ImageDraw.Draw(background_image)
+                        
+                        
+                        # Video Generation
+                        # Generate blue overlay
+                        email_string = ""
+                        if name == "Not Found":
+                            split_emails = emails.split(",")
+                            count = 0
+                            for email in split_emails:
+                                if count == 0:
+                                    email_string = email
+                                else:
+                                    email_string = email_string + ", " + email
+                                count += 1
+                                    
+                            email_font  = ImageFont.truetype(self.fonts["bold"], 20)
+                            email_w, email_h = email_font.getsize(email_string)
+                            x_offset = (background_width - email_w) - 60
+                            email_offset_calculated = [x_offset , 70]
+                            background_image_draw = self.write_text(background_image_draw, email_string, email_offset_calculated, 20, self.fonts["bold"], self.colours["white"])
                         else:
-                            background_image_draw = self.write_text(background_image_draw, name,[[500,750],330],20, self.fonts["bold"], self.colours["black"], centered=True)
+                            # Speaker Name
+                            if len(name) < 40:
+                                name_font  = ImageFont.truetype(self.fonts["bold"], 27)
+                                name_w, name_h = name_font.getsize(name)
+                                name_offset_calculated = [background_width - (name_w + 60), 70]
 
-                        if len(position) < 40:
-                            background_image_draw = self.write_text(background_image_draw, position,[[500,750],390],18, self.fonts["regular"], self.colours["grey"], centered=True)
+                                print("Calculated Name Width:", name_w)
+                                print("Calculated Offset: ", name_offset_calculated)
+                                background_image_draw = self.write_text(background_image_draw, name, name_offset_calculated, 27, self.fonts["bold"], self.colours["white"])
+                            else:
+                                background_image_draw = self.write_text(background_image_draw, name,self.second_name_offset,20, self.fonts["bold"], self.colours["white"])
+                        
+                        
+                        # Session ID -----------
+                        if position == "Not Found":
+                            session_id_font  = ImageFont.truetype(self.fonts["regular"], 27)
+                            session_id_w, session_id_h = session_id_font.getsize(session_id)
+                            x_offset = (background_width - session_id_w) - 60
+                            session_id_offset_calculated = [x_offset , 130]
+                            
+                            background_image_draw = self.write_text(background_image_draw, session_id, session_id_offset_calculated,27, self.fonts["regular"], self.colours["white"])
+                        else:
+                            # Speaker Position
+                            if len(position) < 40:
+                                position_font  = ImageFont.truetype(self.fonts["regular"], 27)
+                                position_w, position_h = position_font.getsize(position)
+                                x_offset = (background_width - position_w) - 60
+                                position_offset_calculated = [x_offset , 130]
+                                background_image_draw = self.write_text(background_image_draw, position,position_offset_calculated,27, self.fonts["regular"], self.colours["white"])
+                            else:
+                                position_font_smaller  = ImageFont.truetype(self.fonts["regular"], 20)
+                                position_w_smaller, position_h_smaller = position_font_smaller.getsize(position)
+                                x_offset = (background_width - position_w_smaller) - 60
+                                position_offset_calculated_new = [x_offset , 130]
+                                background_image_draw = self.write_text(background_image_draw, position,position_offset_calculated_new,20, self.fonts["regular"], self.colours["white"])
+                        
 
-                        background_image_draw = self.write_text(background_image_draw, track,[20,175],26, self.fonts["bold"], self.colours["white"])
+                        # Session Track
+                        background_image_draw = self.write_text(background_image_draw, track, self.second_track_offset, 16, self.fonts["bold"], self.colours["white"])
 
-                        background_image_draw = self.write_text(background_image_draw, title,[20,218],32, self.fonts["bold"], self.colours["white"], multiline=True)
+                        # Session Title
+                        if len(title) < 40:
+                            background_image_draw = self.write_text(background_image_draw, title,self.second_title_offset, 34, self.fonts["bold"], self.colours["white"], multiline=True)
+                        else:
+    
+                            background_image_draw = self.write_text(background_image_draw, title,self.second_title_offset, 30, self.fonts["bold"], self.colours["white"], multiline=True)
+                            
+                        # Keywords
+                        if actual_keywords:
+                            counter = 0
+                            keyword_offset = []
+                            for word in actual_keywords[0:3]:
 
-                        if not image_file_name:
-                            background_image_draw = self.write_text(background_image_draw, self.event_hash_tag,[[500,750],120],44, self.fonts["bold"], self.colours["linaro-blue"], centered=True)
+                                keyword_font = ImageFont.truetype(self.fonts["bold"], 44)
+                                text_width, text_height = keyword_font.getsize(word)
+                                keyword_offset = self.second_keywords_offset
+                                keyword_offset[1] = background_height - 170
+                                background_image_draw = self.write_text(background_image_draw, "#" + word,keyword_offset, 44, self.fonts["regular"], self.colours["linaro-green"])
+                                keyword_offset[0] = keyword_offset[0] + (text_width + 50)
+                                counter += 1
 
+                        # Event Hash Tag - If not speaker Image
+                        # if not image_file_name:
+                        #     background_image_draw = self.write_text(background_image_draw, self.event_hash_tag,self.event_hash_tag_offset,44, self.fonts["bold"], self.colours["linaro-blue"], centered=True)
 
-                        output_file = self.output_path + session_id + ".png"
+                        output_file = self.second_output_path + session_id.lower() + ".png"
                         print(output_file)
                         # Save the final image.
                         background_image.save(output_file, quality=95)
@@ -319,9 +478,9 @@ class SocialMediaImageAutomation:
         return circle_thumb
 
 
-    def create_normal_thumbnail(self, file_name):
+    def create_normal_thumbnail(self, file_name, thumbnail_base_width):
 
-        basewidth = 300
+        basewidth = thumbnail_base_width
         img = Image.open(file_name).convert("RGBA")
 
         wpercent = (basewidth/float(img.size[0]))
@@ -333,4 +492,4 @@ class SocialMediaImageAutomation:
 
 if __name__ == "__main__":
 
-    cards = SocialMediaImageAutomation("sessions_keywords.csv", ["HKG18-Video-Placeholder-BG.jpg"])
+    cards = SocialMediaImageAutomation("updates.csv", ["HKG18-Social-Media-bg.jpg"])
