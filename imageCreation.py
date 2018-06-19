@@ -1,3 +1,6 @@
+# Install the following
+# pip install Pillow
+
 from PIL import Image
 from PIL import ImageFont
 from PIL import ImageDraw
@@ -66,8 +69,8 @@ class SocialMediaImageAutomation:
         self.name_offset = [940,70]
         self.position_offset = [940,130]
         self.event_hash_tag_offset = [[500,750],120]
-        
-        
+
+
         # Positions of elements
         self.second_photo_offset = (900,20)
         self.second_title_offset = [28,210]
@@ -209,13 +212,13 @@ class SocialMediaImageAutomation:
                 background_width, background_height = background_image.size
 
 
-        
+
                 if media_template in self.types:
                     if media_template == self.types[0]:
-                        
+
                         if image_file_name != False:
                             thumbnail = self.create_normal_thumbnail(image_file_name, 300)
-                    
+
                             # Paste the generated circular thumbnail.
                             speaker_image_w, speaker_image_h = thumbnail.size
                             speaker_image_offset_calculated = [background_width - (speaker_image_w + 60), background_height - speaker_image_h]
@@ -243,7 +246,7 @@ class SocialMediaImageAutomation:
                                 else:
                                     email_string = email_string + ", " + email
                                 count += 1
-                                    
+
                             email_font  = ImageFont.truetype(self.fonts["bold"], 20)
                             email_w, email_h = email_font.getsize(email_string)
                             x_offset = (background_width - email_w) - 60
@@ -261,15 +264,15 @@ class SocialMediaImageAutomation:
                                 background_image_draw = self.write_text(background_image_draw, name, name_offset_calculated, 27, self.fonts["bold"], self.colours["white"])
                             else:
                                 background_image_draw = self.write_text(background_image_draw, name,self.name_offset,20, self.fonts["bold"], self.colours["white"])
-                        
-                        
+
+
                         # Session ID -----------
                         if position == "Not Found":
                             session_id_font  = ImageFont.truetype(self.fonts["regular"], 27)
                             session_id_w, session_id_h = session_id_font.getsize(session_id)
                             x_offset = (background_width - session_id_w) - 60
                             session_id_offset_calculated = [x_offset , 130]
-                            
+
                             background_image_draw = self.write_text(background_image_draw, session_id, session_id_offset_calculated,27, self.fonts["regular"], self.colours["white"])
                         else:
                             # Speaker Position
@@ -285,7 +288,7 @@ class SocialMediaImageAutomation:
                                 x_offset = (background_width - position_w_smaller) - 60
                                 position_offset_calculated_new = [x_offset , 130]
                                 background_image_draw = self.write_text(background_image_draw, position,position_offset_calculated_new,20, self.fonts["regular"], self.colours["white"])
-                        
+
 
                         # Session Track
                         background_image_draw = self.write_text(background_image_draw, track, self.track_offset, 26, self.fonts["bold"], self.colours["white"])
@@ -294,10 +297,10 @@ class SocialMediaImageAutomation:
                         if len(title) < 40:
                             background_image_draw = self.write_text(background_image_draw, title,self.title_offset, 72, self.fonts["bold"], self.colours["white"], multiline=True)
                         else:
-    
+
                             background_image_draw = self.write_text(background_image_draw, title,self.title_offset, 56, self.fonts["bold"], self.colours["white"], multiline=True)
-                            
-                        
+
+
 
                         # Keywords
                         if actual_keywords:
@@ -326,11 +329,11 @@ class SocialMediaImageAutomation:
                         background_image.save(output_file, quality=95)
 
                     elif media_template == self.types[1]:
-                        
+
                         # Add the profile photo
-                        
+
                         if image_file_name:
-                            
+
                             thumbnail = self.create_normal_thumbnail(image_file_name, 200)
 
                             # Paste the generated circular thumbnail.
@@ -348,8 +351,8 @@ class SocialMediaImageAutomation:
 
                         # Get the draw object from ImageDraw.Draw() method
                         background_image_draw = ImageDraw.Draw(background_image)
-                        
-                        
+
+
                         # Video Generation
                         # Generate blue overlay
                         email_string = ""
@@ -362,7 +365,7 @@ class SocialMediaImageAutomation:
                                 else:
                                     email_string = email_string + ", " + email
                                 count += 1
-                                    
+
                             email_font  = ImageFont.truetype(self.fonts["bold"], 20)
                             email_w, email_h = email_font.getsize(email_string)
                             x_offset = (background_width - email_w) - 60
@@ -380,15 +383,15 @@ class SocialMediaImageAutomation:
                                 background_image_draw = self.write_text(background_image_draw, name, name_offset_calculated, 27, self.fonts["bold"], self.colours["white"])
                             else:
                                 background_image_draw = self.write_text(background_image_draw, name,self.second_name_offset,20, self.fonts["bold"], self.colours["white"])
-                        
-                        
+
+
                         # Session ID -----------
                         if position == "Not Found":
                             session_id_font  = ImageFont.truetype(self.fonts["regular"], 27)
                             session_id_w, session_id_h = session_id_font.getsize(session_id)
                             x_offset = (background_width - session_id_w) - 60
                             session_id_offset_calculated = [x_offset , 130]
-                            
+
                             background_image_draw = self.write_text(background_image_draw, session_id, session_id_offset_calculated,27, self.fonts["regular"], self.colours["white"])
                         else:
                             # Speaker Position
@@ -404,7 +407,7 @@ class SocialMediaImageAutomation:
                                 x_offset = (background_width - position_w_smaller) - 60
                                 position_offset_calculated_new = [x_offset , 130]
                                 background_image_draw = self.write_text(background_image_draw, position,position_offset_calculated_new,20, self.fonts["regular"], self.colours["white"])
-                        
+
 
                         # Session Track
                         background_image_draw = self.write_text(background_image_draw, track, self.second_track_offset, 16, self.fonts["bold"], self.colours["white"])
@@ -413,9 +416,9 @@ class SocialMediaImageAutomation:
                         if len(title) < 40:
                             background_image_draw = self.write_text(background_image_draw, title,self.second_title_offset, 34, self.fonts["bold"], self.colours["white"], multiline=True)
                         else:
-    
+
                             background_image_draw = self.write_text(background_image_draw, title,self.second_title_offset, 30, self.fonts["bold"], self.colours["white"], multiline=True)
-                            
+
                         # Keywords
                         if actual_keywords:
                             counter = 0
