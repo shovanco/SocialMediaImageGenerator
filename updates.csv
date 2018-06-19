@@ -1,0 +1,2655 @@
+session_id,start_time,end_time,title,title_formatted,description,description_formatted,,,tracks,speakers,speaker_position,speaker_emails,speaker_photo_url,number_of_attendees,notes_url,connect_url,event_url,keywords,video_s3_url,presentation_s3_url,video_approved,presentation_approved,presentation_slideshare_url,video_youtube_url,session_thumbnail_image_url,session_thumbnail_image_2,Social Media Share
+459a5acb-a1fc-42ce-8950-c7bc64a53b05,2018/03/19 14:30:00,2018/03/19 15:25:00,Native CI and CD pipelines for Arm,"Native CI and CD pipelines for Arm The industrial revolution brought a wave of automation and standardization to manufacturing. The world of software is going through a similar revolution in the form of automated CI and CD pipelines. However, most of this innovation has been focused on x86, while
+ Arm developers have had to jump through hoops to achieve similar productivity. This talk demonstrates how you can achieve CD natively on Arm and reduce friction in software delivery.",Grand Ballroom I (Session Room I),,,0,,Not Found,Not Found,,Not Found,0,pad.linaro.org/p/459a5acb-a1fc-42ce-8950-c7bc64a53b05,http://connect.linaro.org/resource/hkg18/459a5acb-a1fc-42ce-8950-c7bc64a53b05/,http://connect.linaro.org/resource/hkg18/459a5acb-a1fc-42ce-8950-c7bc64a53b05/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/459a5acb-a1fc-42ce-8950-c7bc64a53b05.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/459a5acb-a1fc-42ce-8950-c7bc64a53b05.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/459a5acb-a1fc-42ce-8950-c7bc64a53b05.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/459a5acb-a1fc-42ce-8950-c7bc64a53b05.png,
+5ed34ad8-767f-4d7c-b1ae-767c6cacc60c,2018/03/21 10:00:00,2018/03/21 10:25:00,Why the ecosystem is a wonderful thing warts and all,Why the ecosystem is a wonderful thing warts and all - 5ed34ad8-767f-4d7c-b1ae-767c6cacc60c,Grand Ballroom II (Keynote),"Session ID: 5ed34ad8-767f-4d7c-b1ae-767c6cacc60c
+Session Name: Why the ecosystem is a wonderful thing warts and all - 5ed34ad8-767f-4d7c-b1ae-767c6cacc60c
+Speaker: Not Found
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/5ed34ad8-767f-4d7c-b1ae-767c6cacc60c/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/5ed34ad8-767f-4d7c-b1ae-767c6cacc60c.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/5ed34ad8-767f-4d7c-b1ae-767c6cacc60c.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),,,Not Found,Not Found,,Not Found,0,pad.linaro.org/p/5ed34ad8-767f-4d7c-b1ae-767c6cacc60c,http://connect.linaro.org/resource/hkg18/5ed34ad8-767f-4d7c-b1ae-767c6cacc60c/,http://connect.linaro.org/resource/hkg18/5ed34ad8-767f-4d7c-b1ae-767c6cacc60c/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/5ed34ad8-767f-4d7c-b1ae-767c6cacc60c.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/5ed34ad8-767f-4d7c-b1ae-767c6cacc60c.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/5ed34ad8-767f-4d7c-b1ae-767c6cacc60c.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/5ed34ad8-767f-4d7c-b1ae-767c6cacc60c.png,
+c0094171-4ec8-445b-99d1-0cb754ae99aa,2018/03/21 12:30:00,2018/03/21 12:55:00,Arm Server Ready Program,Arm Server Ready Program - c0094171-4ec8-445b-99d1-0cb754ae99aa,Grand Ballroom I (Session Room I),"Session ID: c0094171-4ec8-445b-99d1-0cb754ae99aa
+Session Name: Arm Server Ready Program - c0094171-4ec8-445b-99d1-0cb754ae99aa
+Speaker: Dong Wei
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom I (Session Room I)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/c0094171-4ec8-445b-99d1-0cb754ae99aa/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/c0094171-4ec8-445b-99d1-0cb754ae99aa.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/c0094171-4ec8-445b-99d1-0cb754ae99aa.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session Room I),,,Dong Wei,Senior Director,dong.wei@arm.com,https://hkg18.pathable.com/static/user_profiles/1144070/photo/full/1518991060.jpg?1518991060,2,pad.linaro.org/p/c0094171-4ec8-445b-99d1-0cb754ae99aa,http://connect.linaro.org/resource/hkg18/c0094171-4ec8-445b-99d1-0cb754ae99aa/,http://connect.linaro.org/resource/hkg18/c0094171-4ec8-445b-99d1-0cb754ae99aa/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/c0094171-4ec8-445b-99d1-0cb754ae99aa.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/c0094171-4ec8-445b-99d1-0cb754ae99aa.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/c0094171-4ec8-445b-99d1-0cb754ae99aa.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/c0094171-4ec8-445b-99d1-0cb754ae99aa.png,
+f7332fb0-4f4a-4bc3-bd8c-9297779862a4,2018/03/21 10:00:00,2018/03/21 13:00:00,OpenAMP Workshop,OpenAMP Workshop - f7332fb0-4f4a-4bc3-bd8c-9297779862a4,Orion (LITE),"Session ID: f7332fb0-4f4a-4bc3-bd8c-9297779862a4
+Session Name: OpenAMP Workshop - f7332fb0-4f4a-4bc3-bd8c-9297779862a4
+Speaker: Wendy Liang
+Track: LITE
+
+
+★ Session Summary ★
+Orion (LITE)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/f7332fb0-4f4a-4bc3-bd8c-9297779862a4/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/f7332fb0-4f4a-4bc3-bd8c-9297779862a4.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/f7332fb0-4f4a-4bc3-bd8c-9297779862a4.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LITE
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Orion (LITE),OpenAMP,LITE,Wendy Liang,Software engineer,jliang@xilinx.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,1,pad.linaro.org/p/f7332fb0-4f4a-4bc3-bd8c-9297779862a4,http://connect.linaro.org/resource/hkg18/f7332fb0-4f4a-4bc3-bd8c-9297779862a4/,http://connect.linaro.org/resource/hkg18/f7332fb0-4f4a-4bc3-bd8c-9297779862a4/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/f7332fb0-4f4a-4bc3-bd8c-9297779862a4.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/f7332fb0-4f4a-4bc3-bd8c-9297779862a4.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/f7332fb0-4f4a-4bc3-bd8c-9297779862a4.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/f7332fb0-4f4a-4bc3-bd8c-9297779862a4.png,
+HGK18-405,2018/03/22 11:00:00,2018/03/22 11:25:00,Accelerating Neural Networks for Vision Systems via FPGAs,Accelerating Neural Networks for Vision Systems via FPGAs - HGK18-405,Grand Ballroom I (Session 1),"Session ID: HGK18-405
+Session Name: Accelerating Neural Networks for Vision Systems via FPGAs - HGK18-405
+Speaker: Glenn Steiner
+Track: IoT, Embedded
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hgk18-405/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hgk18-405.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hgk18-405.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: IoT, Embedded
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),Machine Learning,"IoT, Embedded",Glenn Steiner,Senior Manager,glenn.steiner@xilinx.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,2,pad.linaro.org/p/hgk18-405,http://connect.linaro.org/resource/hkg18/hgk18-405/,http://connect.linaro.org/resource/hkg18/hgk18-405/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hgk18-405.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hgk18-405.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hgk18-405.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hgk18-405.png,
+HKG-TR05,2018/03/20 14:00:00,2018/03/20 14:55:00,LAVA Users Forum,LAVA Users Forum - HKG-TR05,Cairo Suite (CT&T),"Session ID: HKG-TR05
+Session Name: LAVA Users Forum - HKG-TR05
+Speaker: Steve McIntyre
+Track: LEG HPC
+
+
+★ Session Summary ★
+Cairo Suite (CT&T)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg-tr05/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg-tr05.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg-tr05.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LEG HPC
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Cairo Suite (CT&T),LAVA,LEG HPC,Steve McIntyre,Technical Architect,steve.mcintyre@linaro.org,https://hkg18.pathable.com/static/user_profiles/402410/photo/full/1423177090.jpg?1423177090,3,pad.linaro.org/p/hkg-tr05,http://connect.linaro.org/resource/hkg18/hkg-tr05/,http://connect.linaro.org/resource/hkg18/hkg-tr05/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg-tr05.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg-tr05.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg-tr05.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg-tr05.png,
+HKG18-100,2018/03/19 10:30:00,2018/03/19 11:30:00,Ask Arm Anything BoF (MEMBERS ONLY),Ask Arm Anything BoF (MEMBERS ONLY) - HKG18-100,Grand Ballroom I (Session Room I),"Session ID: HKG18-100
+Session Name: Ask Arm Anything BoF (MEMBERS ONLY) - HKG18-100
+Speaker: Mark Hambleton
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom I (Session Room I)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-100/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-100.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-100.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session Room I),HKG18-100,,Mark Hambleton,Software Director,mark.hambleton@arm.com,https://hkg18.pathable.com/static/user_profiles/402177/photo/full/1421399033.JPG?1421399033,18,pad.linaro.org/p/hkg18-100,http://connect.linaro.org/resource/hkg18/hkg18-100/,http://connect.linaro.org/resource/hkg18/hkg18-100/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-100.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-100.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-100.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-100.png,
+HKG18-100K1,2018/03/19 8:45:00,2018/03/19 9:45:00,George Grey: Opening Keynote,George Grey: Opening Keynote - HKG18-100K1,Grand Ballroom II (Keynote),"Session ID: HKG18-100K1
+Session Name: George Grey: Opening Keynote - HKG18-100K1
+Speaker: George Grey
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-100k1/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-100k1.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-100k1.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-100K1,,George Grey,"CEO, Linaro",george.grey@linaro.org,https://hkg18.pathable.com/static/user_profiles/402392/photo/full/1422544579.jpg?1422544579,18,pad.linaro.org/p/hkg18-100k1,http://connect.linaro.org/resource/hkg18/hkg18-100k1/,http://connect.linaro.org/resource/hkg18/hkg18-100k1/,"Keynote,Linaro,HKG18",http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-100k1.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-100k1.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-100k1.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-100k1.png,
+HKG18-101,2018/03/19 14:00:00,2018/03/19 14:55:00,ARM EBBR (TSC sponsored BoF),ARM EBBR (TSC sponsored BoF) - HKG18-101,Grand Ballroom II (Keynote),"Session ID: HKG18-101
+Session Name: ARM EBBR (TSC sponsored BoF) - HKG18-101
+Speaker: Not Found
+Track: Mobile
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-101/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-101.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-101.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-101,Mobile,Not Found,Not Found,,Not Found,10,pad.linaro.org/p/hkg18-101,http://connect.linaro.org/resource/hkg18/hkg18-101/,http://connect.linaro.org/resource/hkg18/hkg18-101/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-101.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-101.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-101.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-101.png,
+HKG18-102,2018/03/19 14:00:00,2018/03/19 14:25:00,DPDK on Arm64 Platforms,DPDK on Arm64 Platforms - HKG18-102,Grand Ballroom I (Session 1),"Session ID: HKG18-102
+Session Name: DPDK on Arm64 Platforms - HKG18-102
+Speaker: Not Found
+Track: Networking
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-102/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-102.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-102.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Networking
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-102,Networking,Not Found,Not Found,,Not Found,2,pad.linaro.org/p/hkg18-102,http://connect.linaro.org/resource/hkg18/hkg18-102/,http://connect.linaro.org/resource/hkg18/hkg18-102/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-102.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-102.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-102.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-102.png,
+HKG18-103,2018/03/19 14:00:00,2018/03/19 14:55:00,"CMA, Large Page Allocation, and related Memory Management issues","CMA, Large Page Allocation, and related Memory Management issues - HKG18-103",Berlin (Session Room II),"Session ID: HKG18-103
+Session Name: CMA, Large Page Allocation, and related Memory Management issues - HKG18-103
+Speaker: William Mills
+Track: Kernel
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-103/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-103.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-103.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Kernel
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-103,Kernel,William Mills,Chief Technologist,wmills@ti.com,https://hkg18.pathable.com/static/user_profiles/402333/photo/full/1422565084.jpg?1422565084,10,pad.linaro.org/p/hkg18-103,http://connect.linaro.org/resource/hkg18/hkg18-103/,http://connect.linaro.org/resource/hkg18/hkg18-103/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-103.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-103.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-103.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-103.png,
+HKG18-104,2018/03/19 15:00:00,2018/03/19 15:25:00,Securing Arm Servers,Securing Arm Servers - HKG18-104,Ottawa + Moscow (Session Room III),"Session ID: HKG18-104
+Session Name: Securing Arm Servers - HKG18-104
+Speaker: Matteo Carlini
+Track: Security
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-104/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-104.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-104.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Security
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Canberra Suite (96Boards),HKG18-105,Security,Matteo Carlini,Snr Software Product Manager,matteo.carlini@arm.com,https://hkg18.pathable.com/static/user_profiles/1144062/photo/full/1519065520.jpg?1519065520,11,pad.linaro.org/p/hkg18-104,http://connect.linaro.org/resource/hkg18/hkg18-104/,http://connect.linaro.org/resource/hkg18/hkg18-104/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-104.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-104.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-104.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-104.png,
+HKG18-105,2018/03/19 14:00:00,2018/03/19 14:55:00,LMG Lightning Talks (in Canberra),LMG Lightning Talks (in Canberra) - HKG18-105,Canberra Suite (96Boards),"Session ID: HKG18-105
+Session Name: LMG Lightning Talks (in Canberra) - HKG18-105
+Speaker: Sumit Semwal
+Track: Mobile
+
+
+★ Session Summary ★
+Canberra Suite (96Boards)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-105/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-105.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-105.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-106,Mobile,Sumit Semwal,LMG Kernel Team Lead,sumit.semwal@linaro.org,https://hkg18.pathable.com/static/user_profiles/402458/photo/full/1519052918.jpg?1519052918,7,pad.linaro.org/p/hkg18-105,http://connect.linaro.org/resource/hkg18/hkg18-105/,http://connect.linaro.org/resource/hkg18/hkg18-105/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-105.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-105.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-105.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-105.png,
+HKG18-106,2018/03/19 14:30:00,2018/03/19 14:55:00,Introducing OpenDataPlane Tiger Moth,Introducing OpenDataPlane Tiger Moth - HKG18-106,Grand Ballroom I (Session 1),"Session ID: HKG18-106
+Session Name: Introducing OpenDataPlane Tiger Moth - HKG18-106
+Speaker: Bill Fischofer
+Track: Networking
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-106/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-106.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-106.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Networking
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-108,Networking,Bill Fischofer,Sr. Software Engineer,bill.fischofer@linaro.org,https://hkg18.pathable.com/static/user_profiles/402120/photo/full/1422064014.JPG?1422064014,1,pad.linaro.org/p/hkg18-106,http://connect.linaro.org/resource/hkg18/hkg18-106/,http://connect.linaro.org/resource/hkg18/hkg18-106/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-106.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-106.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-106.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-106.png,
+HKG18-108,2018/03/19 14:30:00,2018/03/19 14:55:00,Deploying OPNFV on Arm with Compass4NFV,Deploying OPNFV on Arm with Compass4NFV - HKG18-108,Ottawa + Moscow (Session Room III),"Session ID: HKG18-108
+Session Name: Deploying OPNFV on Arm with Compass4NFV - HKG18-108
+Speaker: Yibo Cai
+Track: Enterprise
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-108/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-108.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-108.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-109,Enterprise,Yibo Cai,Staff Software Engineer,yibo.cai@arm.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,3,pad.linaro.org/p/hkg18-108,http://connect.linaro.org/resource/hkg18/hkg18-108/,http://connect.linaro.org/resource/hkg18/hkg18-108/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-108.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-108.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-108.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-108.png,
+HKG18-109,2018/03/19 16:00:00,2018/03/19 16:25:00,LITE Lightning Talks,LITE Lightning Talks - HKG18-109,Grand Ballroom II (Keynote),"Session ID: HKG18-109
+Session Name: LITE Lightning Talks - HKG18-109
+Speaker: Paul Sokolovsky
+Track: IoT
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-109/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-109.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-109.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: IoT
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-110,IoT,Paul Sokolovsky,Iot Engineer,paul.sokolovsky@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,9,pad.linaro.org/p/hkg18-109,http://connect.linaro.org/resource/hkg18/hkg18-109/,http://connect.linaro.org/resource/hkg18/hkg18-109/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-109.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-109.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-109.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-109.png,
+HKG18-110,2018/03/19 15:00:00,2018/03/19 15:55:00,net_mdev: Fast path user space I/O,net_mdev: Fast path user space I/O - HKG18-110,Grand Ballroom I (Session 1),"Session ID: HKG18-110
+Session Name: net_mdev: Fast path user space I/O - HKG18-110
+Speaker: Ilias Apalodimas
+Track: Networking
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-110/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-110.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-110.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Networking
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-111,Networking,Ilias Apalodimas,Engineer,ilias.apalodimas@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,4,pad.linaro.org/p/hkg18-110,http://connect.linaro.org/resource/hkg18/hkg18-110/,http://connect.linaro.org/resource/hkg18/hkg18-110/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-110.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-110.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-110.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-110.png,
+HKG18-111,3/19/2018 15:30:00,3/19/2018 15:55:00,How to get realistic c-state latency and residency?,How to get realistic c-state latency and residency? - HKG18-111,Grand Ballroom I (Session 1),"Session ID: HKG18-111
+Session Name: How to get realistic c-state latency and residency? - HKG18-111
+Speaker: Vincent Guittot
+Track: Kernel
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-111/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-111.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-111.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Kernel
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-112,Kernel,Vincent Guittot,Technical Lead - Power,vincent.guittot@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,1,pad.linaro.org/p/hkg18-111,http://connect.linaro.org/resource/hkg18/hkg18-111/,http://connect.linaro.org/resource/hkg18/hkg18-111/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-111.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-111.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-111.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-111.png,
+HKG18-112,2018/03/19 14:00:00,2018/03/19 14:25:00,Accelerate Ceph by SPDK on AArch64,Accelerate Ceph by SPDK on AArch64 - HKG18-112,Ottawa + Moscow (Session Room III),"Session ID: HKG18-112
+Session Name: Accelerate Ceph by SPDK on AArch64 - HKG18-112
+Speaker: Tone Zhang
+Track: Enterprise
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-112/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-112.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-112.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-113,Enterprise,Tone Zhang,Staff engineer in Arm,tone.zhang@arm.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,5,pad.linaro.org/p/hkg18-112,http://connect.linaro.org/resource/hkg18/hkg18-112/,http://connect.linaro.org/resource/hkg18/hkg18-112/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-112.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-112.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-112.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-112.png,
+HKG18-113,2018/03/19 15:00:00,2018/03/19 15:25:00,Secure Data Path work with i.MX8M,Secure Data Path work with i.MX8M - HKG18-113,Grand Ballroom II (Keynote),"Session ID: HKG18-113
+Session Name: Secure Data Path work with i.MX8M - HKG18-113
+Speaker: Cyrille Fleury
+Track: Digital Home
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-113/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-113.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-113.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Digital Home
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-115,Digital Home,Cyrille Fleury,Media and IOT architect,cyrille.fleury@nxp.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,9,pad.linaro.org/p/hkg18-113,http://connect.linaro.org/resource/hkg18/hkg18-113/,http://connect.linaro.org/resource/hkg18/hkg18-113/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-113.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-113.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-113.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-113.png,
+HKG18-115,2018/03/19 15:00:00,2018/03/19 15:55:00,Partitioning ARM Systems with the Jailhouse Hypervisor,Partitioning ARM Systems with the Jailhouse Hypervisor - HKG18-115,Berlin (Session Room II),"Session ID: HKG18-115
+Session Name: Partitioning ARM Systems with the Jailhouse Hypervisor - HKG18-115
+Speaker: Jan Kiszka
+Track: Security
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-115/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-115.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-115.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Security
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-116,Security,Jan Kiszka,Senior Key Expert,jan.kiszka@siemens.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,12,pad.linaro.org/p/hkg18-115,http://connect.linaro.org/resource/hkg18/hkg18-115/,http://connect.linaro.org/resource/hkg18/hkg18-115/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-115.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-115.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-115.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-115.png,
+HKG18-116,2018/03/19 15:30:00,2018/03/19 16:25:00,RAS Solutions for Arm64 Servers,RAS Solutions for Arm64 Servers - HKG18-116,Ottawa + Moscow (Session Room III),"Session ID: HKG18-116
+Session Name: RAS Solutions for Arm64 Servers - HKG18-116
+Speaker: Jonathan (Zhixiong) Zhang
+Track: Enterprise
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-116/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-116.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-116.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-117,Enterprise,Jonathan (Zhixiong) Zhang,,jozhang@cavium.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,12,pad.linaro.org/p/hkg18-116,http://connect.linaro.org/resource/hkg18/hkg18-116/,http://connect.linaro.org/resource/hkg18/hkg18-116/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-116.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-116.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-116.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-116.png,
+HKG18-117,2018/03/20 11:00:00,2018/03/20 11:25:00,Make Kubernetes Greater for NFV@Arm,Make Kubernetes Greater for NFV@Arm - HKG18-117,Grand Ballroom II (Keynote),"Session ID: HKG18-117
+Session Name: Make Kubernetes Greater for NFV@Arm - HKG18-117
+Speaker: Robin Lu
+Track: Enterprise
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-117/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-117.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-117.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-118,Enterprise,Robin Lu,Staff Software Engineer,bin.lu@arm.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,7,pad.linaro.org/p/hkg18-117,http://connect.linaro.org/resource/hkg18/hkg18-117/,http://connect.linaro.org/resource/hkg18/hkg18-117/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-117.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-117.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-117.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-117.png,
+HKG18-118,2018/03/19 16:00:00,2018/03/19 16:25:00,Automated Testing using Travis and Shippable,Automated Testing using Travis and Shippable - HKG18-118,Grand Ballroom I (Session 1),"Session ID: HKG18-118
+Session Name: Automated Testing using Travis and Shippable - HKG18-118
+Speaker: Not Found
+Track: Networking
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-118/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-118.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-118.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Networking
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-119,Networking,Not Found,Not Found,"maxim.uvarov@linaro.org,dmitry.ereminsolenikov@linaro.org",Not Found,9,pad.linaro.org/p/hkg18-118,http://connect.linaro.org/resource/hkg18/hkg18-118/,http://connect.linaro.org/resource/hkg18/hkg18-118/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-118.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-118.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-118.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-118.png,
+HKG18-119,2018/03/19 16:00:00,2018/03/19 16:55:00,Overview of integrating OP-TEE into HiKey620 AOSP,Overview of integrating OP-TEE into HiKey620 AOSP - HKG18-119,Berlin (Session Room II),"Session ID: HKG18-119
+Session Name: Overview of integrating OP-TEE into HiKey620 AOSP - HKG18-119
+Speaker: Victor Chong
+Track: Security
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-119/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-119.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-119.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Security
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-121,Security,Victor Chong,Engineer,victor.chong@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,9,pad.linaro.org/p/hkg18-119,http://connect.linaro.org/resource/hkg18/hkg18-119/,http://connect.linaro.org/resource/hkg18/hkg18-119/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-119.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-119.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-119.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-119.png,
+HKG18-121,2018/03/19 16:30:00,2018/03/19 16:55:00,Containerized VNFs with VPP integration on Arm64 Servers,Containerized VNFs with VPP integration on Arm64 Servers - HKG18-121,Grand Ballroom II (Keynote),"Session ID: HKG18-121
+Session Name: Containerized VNFs with VPP integration on Arm64 Servers - HKG18-121
+Speaker: Song Zhu
+Track: Enterprise
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-121/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-121.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-121.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-122,Enterprise,Song Zhu,Software Engineer,song.zhu@arm.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,7,pad.linaro.org/p/hkg18-121,http://connect.linaro.org/resource/hkg18/hkg18-121/,http://connect.linaro.org/resource/hkg18/hkg18-121/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-121.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-121.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-121.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-121.png,
+HKG18-122,2018/03/19 16:30:00,2018/03/19 16:55:00,"OpenSDK Rocko builds on DB410c, HiKey, Beagle X15","OpenSDK Rocko builds on DB410c, HiKey, Beagle X15 - HKG18-122",Grand Ballroom I (Session 1),"Session ID: HKG18-122
+Session Name: OpenSDK Rocko builds on DB410c, HiKey, Beagle X15 - HKG18-122
+Speaker: Andrey Konovalov
+Track: Digital Home
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-122/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-122.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-122.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Digital Home
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-124,Digital Home,Andrey Konovalov,Software Engineer,andrey.konovalov@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,5,pad.linaro.org/p/hkg18-122,http://connect.linaro.org/resource/hkg18/hkg18-122/,http://connect.linaro.org/resource/hkg18/hkg18-122/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-122.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-122.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-122.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-122.png,
+HKG18-124,2018/03/19 16:30:00,2018/03/19 16:55:00,Android Verified Boot 2.0 and U-boot,Android Verified Boot 2.0 and U-boot - HKG18-124,Ottawa + Moscow (Session Room III),"Session ID: HKG18-124
+Session Name: Android Verified Boot 2.0 and U-boot - HKG18-124
+Speaker: Igor Opaniuk
+Track: Mobile
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-124/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-124.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-124.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-200K1,Mobile,Igor Opaniuk,Software Engineer,igor.opaniuk@linaro.org,https://hkg18.pathable.com/static/user_profiles/806613/photo/full/1473327221.jpg?1473327221,9,pad.linaro.org/p/hkg18-124,http://connect.linaro.org/resource/hkg18/hkg18-124/,http://connect.linaro.org/resource/hkg18/hkg18-124/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-124.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-124.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-124.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-124.png,
+HKG18-200K1,2018/03/20 8:45:00,2018/03/20 9:15:00,Keynote: Mark Hambleton: The Fog,Keynote: Mark Hambleton: The Fog - HKG18-200K1,Grand Ballroom II (Keynote),"Session ID: HKG18-200K1
+Session Name: Keynote: Mark Hambleton: The Fog - HKG18-200K1
+Speaker: Not Found
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-200k1/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-200k1.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-200k1.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-200K2,,Not Found,Not Found,,Not Found,17,pad.linaro.org/p/hkg18-200k1,http://connect.linaro.org/resource/hkg18/hkg18-200k1/,http://connect.linaro.org/resource/hkg18/hkg18-200k1/,"Keynote,Linaro,HKG18",http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-200k1.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-200k1.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-200k1.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-200k1.png,
+HKG18-200K2,2018/03/20 9:15:00,2018/03/20 9:45:00,Keynote: Willard Jin: Accelerating AI from Cloud to Edge,Keynote: Willard Jin: Accelerating AI from Cloud to Edge - HKG18-200K2,Grand Ballroom II (Keynote),"Session ID: HKG18-200K2
+Session Name: Keynote: Willard Jin: Accelerating AI from Cloud to Edge - HKG18-200K2
+Speaker: Not Found
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-200k2/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-200k2.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-200k2.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-201,,Not Found,Not Found,,Not Found,15,pad.linaro.org/p/hkg18-200k2,http://connect.linaro.org/resource/hkg18/hkg18-200k2/,http://connect.linaro.org/resource/hkg18/hkg18-200k2/,"Keynote,Linaro,HKG18",http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-200k2.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-200k2.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-200k2.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-200k2.png,
+HKG18-201,2018/03/20 10:30:00,2018/03/20 11:25:00,LKFT Remote Labs,LKFT Remote Labs - HKG18-201,Grand Ballroom II (Keynote),"Session ID: HKG18-201
+Session Name: LKFT Remote Labs - HKG18-201
+Speaker: Ryan Arnold
+Track: Mobile
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-201/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-201.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-201.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-202,Mobile,Ryan Arnold,Director - Linaro Core Technology & Tools,ryan.arnold@linaro.org,https://hkg18.pathable.com/static/user_profiles/402113/photo/full/1421358238.jpg?1421358238,10,pad.linaro.org/p/hkg18-201,http://connect.linaro.org/resource/hkg18/hkg18-201/,http://connect.linaro.org/resource/hkg18/hkg18-201/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-201.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-201.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-201.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-201.png,
+HKG18-202,2018/03/20 10:30:00,2018/03/20 10:55:00,Improving the Effectiveness and Generality of GCC Auto-Vectorization,Improving the Effectiveness and Generality of GCC Auto-Vectorization - HKG18-202,Grand Ballroom I (Session 1),"Session ID: HKG18-202
+Session Name: Improving the Effectiveness and Generality of GCC Auto-Vectorization - HKG18-202
+Speaker: Sameera Deshpande
+Track: Tools
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-202/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-202.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-202.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Tools
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-203,Tools,Sameera Deshpande,Senior Toolchain Engineer,sameera.deshpande@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,6,pad.linaro.org/p/hkg18-202,http://connect.linaro.org/resource/hkg18/hkg18-202/,http://connect.linaro.org/resource/hkg18/hkg18-202/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-202.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-202.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-202.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-202.png,
+HKG18-203,2018/03/20 10:30:00,2018/03/20 10:55:00,Overview of Linaro DRM,Overview of Linaro DRM - HKG18-203,Berlin (Session Room II),"Session ID: HKG18-203
+Session Name: Overview of Linaro DRM - HKG18-203
+Speaker: Peter Griffin
+Track: Digital Home
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-203/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-203.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-203.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Digital Home
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-204,Digital Home,Peter Griffin,Senior Engineer,peter.griffin@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,5,pad.linaro.org/p/hkg18-203,http://connect.linaro.org/resource/hkg18/hkg18-203/,http://connect.linaro.org/resource/hkg18/hkg18-203/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-203.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-203.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-203.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-203.png,
+HKG18-204,2018/03/20 10:30:00,2018/03/20 11:25:00,*Linaro Members Only* Cross team component discussion on the impact of security vulnerabilities,*Linaro Members Only* Cross team component discussion on the impact of security vulnerabilities - HKG18-204,Ottawa + Moscow (Session Room III),"Session ID: HKG18-204
+Session Name: *Linaro Members Only* Cross team component discussion on the impact of security vulnerabilities - HKG18-204
+Speaker: David Rusling
+Track: Security
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-204/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-204.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-204.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Security
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-206,Security,David Rusling,Linaro CTO,david.rusling@linaro.org,https://hkg18.pathable.com/static/user_profiles/402397/photo/full/1421400054.jpg?1421400054,12,pad.linaro.org/p/hkg18-204,http://connect.linaro.org/resource/hkg18/hkg18-204/,http://connect.linaro.org/resource/hkg18/hkg18-204/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-204.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-204.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-204.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-204.png,
+HKG18-206,2018/03/20 11:00:00,2018/03/20 11:25:00,CSI-based storage orchestration system on AArch64,CSI-based storage orchestration system on AArch64 - HKG18-206,Grand Ballroom I (Session 1),"Session ID: HKG18-206
+Session Name: CSI-based storage orchestration system on AArch64 - HKG18-206
+Speaker: Dennis Chen
+Track: Enterprise
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-206/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-206.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-206.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-210,Enterprise,Dennis Chen,Staff Software Engineer,dennis.chen@arm.com,https://hkg18.pathable.com/static/user_profiles/551253/photo/full/1439949887.jpg?1439949887,7,pad.linaro.org/p/hkg18-206,http://connect.linaro.org/resource/hkg18/hkg18-206/,http://connect.linaro.org/resource/hkg18/hkg18-206/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-206.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-206.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-206.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-206.png,
+HKG18-210,2018/03/20 12:30:00,2018/03/20 12:55:00,Product codeline optimization,Product codeline optimization - HKG18-210,Ottawa + Moscow (Session Room III),"Session ID: HKG18-210
+Session Name: Product codeline optimization - HKG18-210
+Speaker: Daniel Lezcano
+Track: Mobile
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-210/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-210.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-210.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-211,Mobile,Daniel Lezcano,Power Management Specialist,daniel.lezcano@linaro.org,https://hkg18.pathable.com/static/user_profiles/402268/photo/full/1439307155.jpg?1439307155,4,pad.linaro.org/p/hkg18-210,http://connect.linaro.org/resource/hkg18/hkg18-210/,http://connect.linaro.org/resource/hkg18/hkg18-210/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-210.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-210.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-210.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-210.png,
+HKG18-211,2018/03/20 11:30:00,2018/03/20 11:55:00,Android common kernel and out of mainline patchset status,Android common kernel and out of mainline patchset status - HKG18-211,Berlin (Session Room II),"Session ID: HKG18-211
+Session Name: Android common kernel and out of mainline patchset status - HKG18-211
+Speaker: Amit Pundir
+Track: Mobile
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-211/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-211.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-211.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-212,Mobile,Amit Pundir,Android Engineer,amit.pundir@linaro.org,https://hkg18.pathable.com/static/user_profiles/402136/photo/full/1456376865.jpg?1456376865,8,pad.linaro.org/p/hkg18-211,http://connect.linaro.org/resource/hkg18/hkg18-211/,http://connect.linaro.org/resource/hkg18/hkg18-211/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-211.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-211.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-211.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-211.png,
+HKG18-212,2018/03/20 11:30:00,2018/03/20 12:25:00,Trusted Firmware Project,Trusted Firmware Project - HKG18-212,Ottawa + Moscow (Session Room III),"Session ID: HKG18-212
+Session Name: Trusted Firmware Project - HKG18-212
+Speaker: James King
+Track: Security
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-212/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-212.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-212.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Security
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-213,Security,James King,Technical Lead Product Software,james.king@arm.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,7,pad.linaro.org/p/hkg18-212,http://connect.linaro.org/resource/hkg18/hkg18-212/,http://connect.linaro.org/resource/hkg18/hkg18-212/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-212.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-212.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-212.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-212.png,
+HKG18-213,2018/03/20 11:30:00,2018/03/20 12:30:00,Qualcomm Upstream Status BoF,Qualcomm Upstream Status BoF - HKG18-213,Grand Ballroom II (Keynote),"Session ID: HKG18-213
+Session Name: Qualcomm Upstream Status BoF - HKG18-213
+Speaker: Rajendra Nayak
+Track: Kernel
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-213/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-213.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-213.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Kernel
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-214,Kernel,Rajendra Nayak,,rjendra@qti.qualcomm.com,https://hkg18.pathable.com/static/user_profiles/402446/photo/full/1423117133.jpg?1423117133,14,pad.linaro.org/p/hkg18-213,http://connect.linaro.org/resource/hkg18/hkg18-213/,http://connect.linaro.org/resource/hkg18/hkg18-213/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-213.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-213.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-213.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-213.png,
+HKG18-214,2018/03/20 12:00:00,2018/03/20 12:25:00,Progress of WrapDrive,Progress of WrapDrive - HKG18-214,Grand Ballroom I (Session 1),"Session ID: HKG18-214
+Session Name: Progress of WrapDrive - HKG18-214
+Speaker: Zaibo Xu
+Track: Networking
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-214/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-214.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-214.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Networking
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-215,Networking,Zaibo Xu,Software Architect,xuzaibo@huawei.com,https://hkg18.pathable.com/static/user_profiles/636181/photo/full/1457277765.jpeg?1457277765,1,pad.linaro.org/p/hkg18-214,http://connect.linaro.org/resource/hkg18/hkg18-214/,http://connect.linaro.org/resource/hkg18/hkg18-214/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-214.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-214.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-214.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-214.png,
+HKG18-215,2018/03/20 12:00:00,2018/03/20 12:25:00,"AOSP Toolchains: Where we are with building kernels, bootloaders and AOSP with Clang","AOSP Toolchains: Where we are with building kernels, bootloaders and AOSP with Clang - HKG18-215",Berlin (Session Room II),"Session ID: HKG18-215
+Session Name: AOSP Toolchains: Where we are with building kernels, bootloaders and AOSP with Clang - HKG18-215
+Speaker: Not Found
+Track: Mobile
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-215/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-215.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-215.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-217,Mobile,Not Found,Not Found,"bero@linaro.org,minseong.kim@linaro.org",Not Found,7,pad.linaro.org/p/hkg18-215,http://connect.linaro.org/resource/hkg18/hkg18-215/,http://connect.linaro.org/resource/hkg18/hkg18-215/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-215.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-215.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-215.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-215.png,
+HKG18-217,2018/03/20 12:30:00,2018/03/20 12:55:00,OpenCDM/CDMi (Multi DRM) work with WPE & Chromium,OpenCDM/CDMi (Multi DRM) work with WPE & Chromium - HKG18-217,Grand Ballroom II (Keynote),"Session ID: HKG18-217
+Session Name: OpenCDM/CDMi (Multi DRM) work with WPE & Chromium - HKG18-217
+Speaker: Sivasubramanian Patchaiperumal
+Track: Digital Home
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-217/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-217.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-217.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Digital Home
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-218,Digital Home,Sivasubramanian Patchaiperumal,"8+ Years of experience on Embedded multimedia systems like Infotainment & STB products. Currently working on open source technologies like RDK, Westeros, WPE browser, OpenCDM/CDMi and Yocto.",sivasubramanian.patchaiperumal@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,3,pad.linaro.org/p/hkg18-217,http://connect.linaro.org/resource/hkg18/hkg18-217/,http://connect.linaro.org/resource/hkg18/hkg18-217/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-217.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-217.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-217.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-217.png,
+HKG18-218,2018/03/20 12:30:00,2018/03/20 12:55:00,Bootstrapping a LoRa Linux project,Bootstrapping a LoRa Linux project - HKG18-218,Grand Ballroom I (Session 1),"Session ID: HKG18-218
+Session Name: Bootstrapping a LoRa Linux project - HKG18-218
+Speaker: Stefan Schmidt
+Track: Networking
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-218/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-218.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-218.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Networking
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-219,Networking,Stefan Schmidt,Open Source Software Engineer,stefan@osg.samsung.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,5,pad.linaro.org/p/hkg18-218,http://connect.linaro.org/resource/hkg18/hkg18-218/,http://connect.linaro.org/resource/hkg18/hkg18-218/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-218.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-218.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-218.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-218.png,
+HKG18-219,2018/03/20 12:30:00,2018/03/20 12:55:00,Security Threat Modeling,Security Threat Modeling - HKG18-219,Berlin (Session Room II),"Session ID: HKG18-219
+Session Name: Security Threat Modeling - HKG18-219
+Speaker: David Brown
+Track: Iot, Security
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-219/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-219.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-219.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Iot, Security
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-220,"Iot, Security",David Brown,Senior Engineer,david.brown@linaro.org,https://hkg18.pathable.com/static/user_profiles/526678/photo/full/1439240573.jpg?1439240573,8,pad.linaro.org/p/hkg18-219,http://connect.linaro.org/resource/hkg18/hkg18-219/,http://connect.linaro.org/resource/hkg18/hkg18-219/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-219.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-219.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-219.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-219.png,
+HKG18-220,2018/03/20 11:30:00,2018/03/20 11:55:00,State of Big Data on AArch64. - Apache BigTop,State of Big Data on AArch64. - Apache BigTop - HKG18-220,Grand Ballroom I (Session 1),"Session ID: HKG18-220
+Session Name: State of Big Data on AArch64. - Apache BigTop - HKG18-220
+Speaker: Not Found
+Track: Enterprise
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-220/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-220.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-220.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-300K1,Enterprise,Not Found,Not Found,"ganesh.raju@linaro.org,naresh.bhat@linaro.org,jun.he@linaro.org",Not Found,9,pad.linaro.org/p/hkg18-220,http://connect.linaro.org/resource/hkg18/hkg18-220/,http://connect.linaro.org/resource/hkg18/hkg18-220/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-220.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-220.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-220.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-220.png,
+HKG18-300K1,2018/03/21 8:45:00,2018/03/21 9:15:00,"Keynote: Leendert van Doorn ""Microsoft Azure: Operating at Hyper-Scale""","Keynote: Leendert van Doorn ""Microsoft Azure: Operating at Hyper-Scale"" - HKG18-300K1",Grand Ballroom II (Keynote),"Session ID: HKG18-300K1
+Session Name: Keynote: Leendert van Doorn ""Microsoft Azure: Operating at Hyper-Scale"" - HKG18-300K1
+Speaker: Leendert van Doorn
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-300k1/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-300k1.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k1.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-300K2,,Leendert van Doorn,Distinguished engineer in Microsoft’s Azure,,Not Found,15,pad.linaro.org/p/hkg18-300k1,http://connect.linaro.org/resource/hkg18/hkg18-300k1/,http://connect.linaro.org/resource/hkg18/hkg18-300k1/,"Keynote,Linaro,HKG18",http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k1.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-300k1.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-300k1.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-300k1.png,
+HKG18-300K2,2018/03/21 9:15:00,2018/03/21 9:45:00,Keynote: Tomas Evensen “All Programmable SoCs? – Platforms to enable the future of Embedded Machine Learning”,Keynote: Tomas Evensen “All Programmable SoCs? – Platforms to enable the future of Embedded Machine Learning” - HKG18-300K2,Grand Ballroom II (Keynote),"Session ID: HKG18-300K2
+Session Name: Keynote: Tomas Evensen “All Programmable SoCs? – Platforms to enable the future of Embedded Machine Learning” - HKG18-300K2
+Speaker: Tomas Evensen
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-300k2/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-300k2.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k2.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),,,Tomas Evensen,Xilinx,tomase@xilinx.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,16,pad.linaro.org/p/hkg18-300k2,http://connect.linaro.org/resource/hkg18/hkg18-300k2/,http://connect.linaro.org/resource/hkg18/hkg18-300k2/,"Keynote,Linaro,HKG18",http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-300k2.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-300k2.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-300k2.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-300k2.png,
+HKG18-301,2018/03/21 16:00:00,2018/03/21 16:55:00,Dramatically Accelerate 96Board Software via an FPGA with Integrated Processors,Dramatically Accelerate 96Board Software via an FPGA with Integrated Processors - HKG18-301,Grand Ballroom II (Keynote),"Session ID: HKG18-301
+Session Name: Dramatically Accelerate 96Board Software via an FPGA with Integrated Processors - HKG18-301
+Speaker: Glenn Steiner
+Track: LITE
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-301/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-301.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-301.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LITE
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session Room I),,LITE,Glenn Steiner,Senior Manager,glenn.steiner@xilinx.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,3,pad.linaro.org/p/hkg18-301,http://connect.linaro.org/resource/hkg18/hkg18-301/,http://connect.linaro.org/resource/hkg18/hkg18-301/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-301.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-301.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-301.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-301.png,
+HKG18-302,2018/03/21 10:00:00,2018/03/21 10:55:00,Huawei HiAI : Unlock The Future,Huawei HiAI : Unlock The Future - HKG18-302,Grand Ballroom I (Session Room I),"Session ID: HKG18-302
+Session Name: Huawei HiAI : Unlock The Future - HKG18-302
+Speaker: Not Found
+Track: LEG AI
+
+
+★ Session Summary ★
+Grand Ballroom I (Session Room I)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-302/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-302.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-302.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LEG AI
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),,LEG AI,Not Found,Not Found,zhouchen@hisilicon.com,Not Found,5,pad.linaro.org/p/hkg18-302,http://connect.linaro.org/resource/hkg18/hkg18-302/,http://connect.linaro.org/resource/hkg18/hkg18-302/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-302.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-302.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-302.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-302.png,
+HKG18-303,2018/03/21 11:30:00,2018/03/21 11:55:00,Automotive Grade Linux (AGL),Automotive Grade Linux (AGL) - HKG18-303,Grand Ballroom II (Keynote),"Session ID: HKG18-303
+Session Name: Automotive Grade Linux (AGL) - HKG18-303
+Speaker: Not Found
+Track: Automotive
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-303/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-303.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-303.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Automotive
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session Room I),,Automotive,Not Found,Not Found,,Not Found,2,pad.linaro.org/p/hkg18-303,http://connect.linaro.org/resource/hkg18/hkg18-303/,http://connect.linaro.org/resource/hkg18/hkg18-303/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-303.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-303.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-303.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-303.png,
+HKG18-304,2018/03/21 11:00:00,2018/03/21 11:25:00,Scalable AI server,Scalable AI server - HKG18-304,Grand Ballroom I (Session Room I),"Session ID: HKG18-304
+Session Name: Scalable AI server - HKG18-304
+Speaker: Not Found
+Track: LEG AI
+
+
+★ Session Summary ★
+Grand Ballroom I (Session Room I)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-304/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-304.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-304.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LEG AI
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),,LEG AI,Not Found,Not Found,yamane.shuichi@socionext.com,Not Found,5,pad.linaro.org/p/hkg18-304,http://connect.linaro.org/resource/hkg18/hkg18-304/,http://connect.linaro.org/resource/hkg18/hkg18-304/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-304.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-304.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-304.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-304.png,
+HKG18-305,2018/03/21 12:00:00,2018/03/21 12:55:00,Android in the Cloud,Android in the Cloud - HKG18-305,Grand Ballroom II (Keynote),"Session ID: HKG18-305
+Session Name: Android in the Cloud - HKG18-305
+Speaker: Not Found
+Track: LMG
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-305/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-305.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-305.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LMG
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),,LMG,Not Found,Not Found,,Not Found,4,pad.linaro.org/p/hkg18-305,http://connect.linaro.org/resource/hkg18/hkg18-305/,http://connect.linaro.org/resource/hkg18/hkg18-305/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-305.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-305.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-305.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-305.png,
+HKG18-306,2018/03/21 10:30:00,2018/03/21 10:55:00,Overview of Qualcomm Snapdragon Neural Processing Engine,Overview of Qualcomm Snapdragon Neural Processing Engine - HKG18-306,Grand Ballroom II (Keynote),"Session ID: HKG18-306
+Session Name: Overview of Qualcomm Snapdragon Neural Processing Engine - HKG18-306
+Speaker: Not Found
+Track: LMG
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-306/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-306.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-306.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LMG
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session Room I),,LMG,Not Found,Not Found,mcharleb@qti.qualcomm.com,Not Found,6,pad.linaro.org/p/hkg18-306,http://connect.linaro.org/resource/hkg18/hkg18-306/,http://connect.linaro.org/resource/hkg18/hkg18-306/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-306.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-306.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-306.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-306.png,
+HKG18-307,2018/03/21 12:00:00,2018/03/21 12:25:00,Linaro Developer Cloud,Linaro Developer Cloud - HKG18-307,Grand Ballroom I (Session Room I),"Session ID: HKG18-307
+Session Name: Linaro Developer Cloud - HKG18-307
+Speaker: Jorge Niedbalski
+Track: LEG
+
+
+★ Session Summary ★
+Grand Ballroom I (Session Room I)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-307/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-307.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-307.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LEG
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),,LEG,Jorge Niedbalski,Senior Software Engineer,jorge.niedbalski@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,6,pad.linaro.org/p/hkg18-307,http://connect.linaro.org/resource/hkg18/hkg18-307/,http://connect.linaro.org/resource/hkg18/hkg18-307/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-307.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-307.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-307.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-307.png,
+HKG18-309,2018/03/21 14:00:00,2018/03/21 14:25:00,Introduction to Linaro and 96Boards for Engineers,Introduction to Linaro and 96Boards for Engineers - HKG18-309,Grand Ballroom II (Keynote),"Session ID: HKG18-309
+Session Name: Introduction to Linaro and 96Boards for Engineers - HKG18-309
+Speaker: Robert Wolff
+Track: 96Boards
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-309/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-309.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-309.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 96Boards
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session Room I),,96Boards,Robert Wolff,Community Manager & Engineer,robert.wolff@linaro.org,https://hkg18.pathable.com/static/user_profiles/701261/photo/full/1518817967.jpg?1518817967,1,pad.linaro.org/p/hkg18-309,http://connect.linaro.org/resource/hkg18/hkg18-309/,http://connect.linaro.org/resource/hkg18/hkg18-309/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-309.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-309.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-309.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-309.png,
+HKG18-310,2018/03/21 14:00:00,2018/03/21 14:25:00,The challenge of adopting Arm based servers in our data centers,The challenge of adopting Arm based servers in our data centers - HKG18-310,Grand Ballroom I (Session Room I),"Session ID: HKG18-310
+Session Name: The challenge of adopting Arm based servers in our data centers - HKG18-310
+Speaker: Not Found
+Track: LEG
+
+
+★ Session Summary ★
+Grand Ballroom I (Session Room I)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-310/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-310.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-310.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LEG
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session Room I),,LEG,Not Found,Not Found,,Not Found,7,pad.linaro.org/p/hkg18-310,http://connect.linaro.org/resource/hkg18/hkg18-310/,http://connect.linaro.org/resource/hkg18/hkg18-310/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-310.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-310.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-310.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-310.png,
+HKG18-312,2018/03/21 11:30:00,2018/03/21 11:55:00,CMSIS-NN,CMSIS-NN - HKG18-312,Grand Ballroom I (Session Room I),"Session ID: HKG18-312
+Session Name: CMSIS-NN - HKG18-312
+Speaker: Not Found
+Track: LEG
+
+
+★ Session Summary ★
+Grand Ballroom I (Session Room I)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-312/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-312.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-312.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LEG
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),,LEG,Not Found,Not Found,,Not Found,4,pad.linaro.org/p/hkg18-312,http://connect.linaro.org/resource/hkg18/hkg18-312/,http://connect.linaro.org/resource/hkg18/hkg18-312/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-312.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-312.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-312.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-312.png,
+HKG18-313,2018/03/21 15:00:00,2018/03/21 15:55:00,96Boards OpenHours,96Boards OpenHours - HKG18-313,Grand Ballroom II (Keynote),"Session ID: HKG18-313
+Session Name: 96Boards OpenHours - HKG18-313
+Speaker: Robert Wolff
+Track: 96Boards
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-313/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-313.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-313.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 96Boards
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session Room I),,96Boards,Robert Wolff,Community Manager & Engineer,robert.wolff@linaro.org,https://hkg18.pathable.com/static/user_profiles/701261/photo/full/1518817967.jpg?1518817967,4,pad.linaro.org/p/hkg18-313,http://connect.linaro.org/resource/hkg18/hkg18-313/,http://connect.linaro.org/resource/hkg18/hkg18-313/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-313.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-313.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-313.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-313.png,
+HKG18-314,2018/03/21 17:00:00,2018/03/21 17:55:00,HPC BoF Discussion,HPC BoF Discussion - HKG18-314,Grand Ballroom I (Session Room I),"Session ID: HKG18-314
+Session Name: HPC BoF Discussion - HKG18-314
+Speaker: Renato Golin
+Track: LEG HPC
+
+
+★ Session Summary ★
+Grand Ballroom I (Session Room I)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-314/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-314.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-314.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: LEG HPC
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-400K1,LEG HPC,Renato Golin,HPC-SIG Tech Lead,renato.golin@linaro.org,https://hkg18.pathable.com/static/user_profiles/402108/photo/full/1422903936.jpg?1422903936,5,pad.linaro.org/p/hkg18-314,http://connect.linaro.org/resource/hkg18/hkg18-314/,http://connect.linaro.org/resource/hkg18/hkg18-314/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-314.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-314.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-314.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-314.png,
+HKG18-400K1,2018/03/22 8:45:00,2018/03/22 9:15:00,"Keynote: Kenneth Lee "" To define the rule -- why you should go open source""","Keynote: Kenneth Lee "" To define the rule -- why you should go open source"" - HKG18-400K1",Grand Ballroom II (Keynote),"Session ID: HKG18-400K1
+Session Name: Keynote: Kenneth Lee "" To define the rule -- why you should go open source"" - HKG18-400K1
+Speaker: Kenneth (Liguozhu) Lee
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-400k1/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-400k1.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-400k1.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-400K2,,Kenneth (Liguozhu) Lee,Chief Software Architect of Hisilicon,liguozhu@hisilicon.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,18,pad.linaro.org/p/hkg18-400k1,http://connect.linaro.org/resource/hkg18/hkg18-400k1/,http://connect.linaro.org/resource/hkg18/hkg18-400k1/,"Keynote,Linaro,HKG18",http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-400k1.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-400k1.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-400k1.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-400k1.png,
+HKG18-400K2,2018/03/22 9:15:00,2018/03/22 9:45:00,"Keynote: Shane Coughlan ""Complex Made Simple: The State of Governance in Open Source""","Keynote: Shane Coughlan ""Complex Made Simple: The State of Governance in Open Source"" - HKG18-400K2",Grand Ballroom II (Keynote),"Session ID: HKG18-400K2
+Session Name: Keynote: Shane Coughlan ""Complex Made Simple: The State of Governance in Open Source"" - HKG18-400K2
+Speaker: Kenneth (Liguozhu) Lee
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-400k2/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-400k2.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-400k2.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-401,,Kenneth (Liguozhu) Lee,Chief Software Architect,liguozhu@huawei.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,17,pad.linaro.org/p/hkg18-400k2,http://connect.linaro.org/resource/hkg18/hkg18-400k2/,http://connect.linaro.org/resource/hkg18/hkg18-400k2/,"Keynote,Linaro,HKG18",http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-400k2.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-400k2.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-400k2.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-400k2.png,
+HKG18-401,2018/03/22 10:30:00,2018/03/22 11:25:00,The OpenStack on Aarch64 journey,The OpenStack on Aarch64 journey - HKG18-401,Ottawa + Moscow (Session Room III),"Session ID: HKG18-401
+Session Name: The OpenStack on Aarch64 journey - HKG18-401
+Speaker: Not Found
+Track: Enterprise
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-401/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-401.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-401.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-402,Enterprise,Not Found,Not Found,"marcin.juszkiewicz@linaro.org,sameer.goel@linaro.org,gema.gomez-solano@linaro.org",Not Found,10,pad.linaro.org/p/hkg18-401,http://connect.linaro.org/resource/hkg18/hkg18-401/,http://connect.linaro.org/resource/hkg18/hkg18-401/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-401.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-401.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-401.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-401.png,
+HKG18-402,2018/03/22 10:30:00,2018/03/22 10:55:00,Build secure key management services in OP-TEE,Build secure key management services in OP-TEE - HKG18-402,Grand Ballroom I (Session 1),"Session ID: HKG18-402
+Session Name: Build secure key management services in OP-TEE - HKG18-402
+Speaker: Etienne Carriere
+Track: Security
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-402/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-402.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-402.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Security
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-403,Security,Etienne Carriere,Software Engineer,etienne.carriere@linaro.org,https://hkg18.pathable.com/static/user_profiles/796198/photo/full/1475071886.jpg?1475071886,7,pad.linaro.org/p/hkg18-402,http://connect.linaro.org/resource/hkg18/hkg18-402/,http://connect.linaro.org/resource/hkg18/hkg18-402/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-402.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-402.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-402.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-402.png,
+HKG18-403,2018/03/22 10:30:00,2018/03/22 10:55:00,Introducing OpenOCD: Status of OpenOCD on AArch64,Introducing OpenOCD: Status of OpenOCD on AArch64 - HKG18-403,Grand Ballroom II (Keynote),"Session ID: HKG18-403
+Session Name: Introducing OpenOCD: Status of OpenOCD on AArch64 - HKG18-403
+Speaker: Omair Javaid
+Track: Tools
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-403/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-403.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-403.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Tools
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-404,Tools,Omair Javaid,Engineer,omair.javaid@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,7,pad.linaro.org/p/hkg18-403,http://connect.linaro.org/resource/hkg18/hkg18-403/,http://connect.linaro.org/resource/hkg18/hkg18-403/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-403.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-403.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-403.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-403.png,
+HKG18-404,2018/03/22 11:00:00,2018/03/22 11:55:00,Open Source License Compliance,Open Source License Compliance - HKG18-404,Grand Ballroom II (Keynote),"Session ID: HKG18-404
+Session Name: Open Source License Compliance - HKG18-404
+Speaker: Lucien Cheng-hsia Lin
+Track: FOSS Licensing
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-404/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-404.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-404.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: FOSS Licensing
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-407,FOSS Licensing,Lucien Cheng-hsia Lin,Open Source License expert,lucien.cc@gmail.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,3,pad.linaro.org/p/hkg18-404,http://connect.linaro.org/resource/hkg18/hkg18-404/,http://connect.linaro.org/resource/hkg18/hkg18-404/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-404.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-404.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-404.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-404.png,
+HKG18-407,2018/03/22 11:00:00,2018/03/22 11:25:00,Hypervisors with IoT,Hypervisors with IoT - HKG18-407,Berlin (Session Room II),"Session ID: HKG18-407
+Session Name: Hypervisors with IoT - HKG18-407
+Speaker: David Brown
+Track: IoT, Embedded
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-407/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-407.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-407.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: IoT, Embedded
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-410,"IoT, Embedded",David Brown,Senior Engineer,david.brown@linaro.org,https://hkg18.pathable.com/static/user_profiles/526678/photo/full/1439240573.jpg?1439240573,12,pad.linaro.org/p/hkg18-407,http://connect.linaro.org/resource/hkg18/hkg18-407/,http://connect.linaro.org/resource/hkg18/hkg18-407/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-407.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-407.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-407.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-407.png,
+HKG18-410,2018/03/22 11:30:00,2018/03/22 11:55:00,How to get realistic c-state latency and residency?,How to get realistic c-state latency and residency? - HKG18-410,Grand Ballroom I (Session 1),"Session ID: HKG18-410
+Session Name: How to get realistic c-state latency and residency? - HKG18-410
+Speaker: Vincent Guittot
+Track: Kernel
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-410/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-410.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-410.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Kernel
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-411,Kernel,Vincent Guittot,Technical Lead - Power,vincent.guittot@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,1,pad.linaro.org/p/hkg18-410,http://connect.linaro.org/resource/hkg18/hkg18-410/,http://connect.linaro.org/resource/hkg18/hkg18-410/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-410.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-410.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-410.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-410.png,
+HKG18-411,2018/03/22 11:30:00,2018/03/22 11:55:00,Introduction to OpenAMP which is an open source solution for heterogeneous system orchestration and communication,Introduction to OpenAMP which is an open source solution for heterogeneous system orchestration and communication - HKG18-411,Berlin (Session Room II),"Session ID: HKG18-411
+Session Name: Introduction to OpenAMP which is an open source solution for heterogeneous system orchestration and communication - HKG18-411
+Speaker: Wendy Liang
+Track: IoT, Embedded
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-411/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-411.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-411.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: IoT, Embedded
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-412,"IoT, Embedded",Wendy Liang,Software engineer,jliang@xilinx.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,8,pad.linaro.org/p/hkg18-411,http://connect.linaro.org/resource/hkg18/hkg18-411/,http://connect.linaro.org/resource/hkg18/hkg18-411/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-411.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-411.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-411.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-411.png,
+HKG18-412,2018/03/22 11:30:00,2018/03/22 11:55:00,Android/AOSP Workflow,Android/AOSP Workflow - HKG18-412,Ottawa + Moscow (Session Room III),"Session ID: HKG18-412
+Session Name: Android/AOSP Workflow - HKG18-412
+Speaker: John Stultz
+Track: Mobile
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-412/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-412.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-412.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-413,Mobile,John Stultz,Kernel Developer,john.stultz@linaro.org,https://hkg18.pathable.com/static/user_profiles/405016/photo/full/1422561645.jpg?1422561645,6,pad.linaro.org/p/hkg18-412,http://connect.linaro.org/resource/hkg18/hkg18-412/,http://connect.linaro.org/resource/hkg18/hkg18-412/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-412.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-412.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-412.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-412.png,
+HKG18-413,2018/03/22 10:00:00,2018/03/22 10:55:00,AI and Machine Learning BoF (sponsored by the TSC),AI and Machine Learning BoF (sponsored by the TSC) - HKG18-413,Berlin (Session Room II),"Session ID: HKG18-413
+Session Name: AI and Machine Learning BoF (sponsored by the TSC) - HKG18-413
+Speaker: Not Found
+Track: AI / ML
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-413/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-413.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-413.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: AI / ML
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-414,AI / ML,Not Found,Not Found,"david.rusling@linaro.org,andrea.gallo@linaro.org",Not Found,16,pad.linaro.org/p/hkg18-413,http://connect.linaro.org/resource/hkg18/hkg18-413/,http://connect.linaro.org/resource/hkg18/hkg18-413/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-413.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-413.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-413.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-413.png,
+HKG18-414,2018/03/22 12:00:00,2018/03/22 12:55:00,LKFT experiences and plans,LKFT experiences and plans - HKG18-414,Grand Ballroom I (Session 1),"Session ID: HKG18-414
+Session Name: LKFT experiences and plans - HKG18-414
+Speaker: Milosz Wasilewski
+Track: Mobile, Testing
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-414/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-414.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-414.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile, Testing
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-415,"Mobile, Testing",Milosz Wasilewski,Technical Lead - QA,milosz.wasilewski@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,11,pad.linaro.org/p/hkg18-414,http://connect.linaro.org/resource/hkg18/hkg18-414/,http://connect.linaro.org/resource/hkg18/hkg18-414/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-414.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-414.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-414.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-414.png,
+HKG18-415,2018/03/22 12:00:00,2018/03/22 12:25:00,Measuring Linux I/O Scheduling using a Credit Based Shaper,Measuring Linux I/O Scheduling using a Credit Based Shaper - HKG18-415,Berlin (Session Room II),"Session ID: HKG18-415
+Session Name: Measuring Linux I/O Scheduling using a Credit Based Shaper - HKG18-415
+Speaker: Ivan Khoronzhuk
+Track: Networking
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-415/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-415.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-415.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Networking
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-416,Networking,Ivan Khoronzhuk,Software Engineer,ivan.khoronzhuk@linaro.org,https://hkg18.pathable.com/static/user_profiles/402353/photo/full/1422465114.png?1422465114,3,pad.linaro.org/p/hkg18-415,http://connect.linaro.org/resource/hkg18/hkg18-415/,http://connect.linaro.org/resource/hkg18/hkg18-415/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-415.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-415.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-415.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-415.png,
+HKG18-416,2018/03/22 12:00:00,2018/03/22 12:25:00,Structured Documentation and Validation for Device Tree,Structured Documentation and Validation for Device Tree - HKG18-416,Ottawa + Moscow (Session Room III),"Session ID: HKG18-416
+Session Name: Structured Documentation and Validation for Device Tree - HKG18-416
+Speaker: Grant Likely
+Track: Kernel
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-416/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-416.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-416.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Kernel
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG-417,Kernel,Grant Likely,Senior Technical Director - Software Engineering,grant.likely@arm.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,8,pad.linaro.org/p/hkg18-416,http://connect.linaro.org/resource/hkg18/hkg18-416/,http://connect.linaro.org/resource/hkg18/hkg18-416/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-416.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-416.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-416.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-416.png,
+HKG18-417,2018/03/22 12:00:00,2018/03/22 12:25:00,OpenCL support by NNVM & TVM,OpenCL support by NNVM & TVM - HKG18-417,Grand Ballroom II (Keynote),"Session ID: HKG18-417
+Session Name: OpenCL support by NNVM & TVM - HKG18-417
+Speaker: Jammy Zhou
+Track: AI / ML
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-417/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-417.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-417.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: AI / ML
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-419,AI / ML,Jammy Zhou,Solution Director,jammy.zhou@linaro.org,https://hkg18.pathable.com/static/user_profiles/701294/photo/full/1519106267.jpg?1519106267,7,pad.linaro.org/p/hkg18-417,http://connect.linaro.org/resource/hkg18/hkg18-417/,http://connect.linaro.org/resource/hkg18/hkg18-417/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-417.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-417.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-417.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-417.png,
+HKG18-419,2018/03/22 12:30:00,2018/03/22 12:55:00,OpenHPC on Ansible,OpenHPC on Ansible - HKG18-419,Berlin (Session Room II),"Session ID: HKG18-419
+Session Name: OpenHPC on Ansible - HKG18-419
+Speaker: Not Found
+Track: Enterprise
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-419/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-419.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-419.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-420,Enterprise,Not Found,Not Found,"renato.golin@linaro.org,takeharu.kato@linaro.org",Not Found,5,pad.linaro.org/p/hkg18-419,http://connect.linaro.org/resource/hkg18/hkg18-419/,http://connect.linaro.org/resource/hkg18/hkg18-419/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-419.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-419.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-419.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-419.png,
+HKG18-420,2018/03/22 12:30:00,2018/03/22 12:55:00,Device-tree overlay feature allows for runtime modification,Device-tree overlay feature allows for runtime modification - HKG18-420,Ottawa + Moscow (Session Room III),"Session ID: HKG18-420
+Session Name: Device-tree overlay feature allows for runtime modification - HKG18-420
+Speaker: Srivatsa Vaddagiri
+Track: Kernel
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-420/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-420.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-420.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Kernel
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-500K1,Kernel,Srivatsa Vaddagiri,Qualcomm,svaddagi@qti.qualcomm.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,9,pad.linaro.org/p/hkg18-420,http://connect.linaro.org/resource/hkg18/hkg18-420/,http://connect.linaro.org/resource/hkg18/hkg18-420/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-420.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-420.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-420.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-420.png,
+HKG18-500K1,2018/03/23 8:45:00,2018/03/23 9:15:00,Keynote: Dileep Bhandarkar “Emerging Computing Trends in the Datacenter”,Keynote: Dileep Bhandarkar “Emerging Computing Trends in the Datacenter” - HKG18-500K1,Grand Ballroom II (Keynote),"Session ID: HKG18-500K1
+Session Name: Keynote: Dileep Bhandarkar “Emerging Computing Trends in the Datacenter” - HKG18-500K1
+Speaker: Dileep Bhandarkar
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-500k1/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-500k1.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-500k1.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-500K2,,Dileep Bhandarkar,"Vice President, Technology ",dileepb@qti.qualcomm.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,17,pad.linaro.org/p/hkg18-500k1,http://connect.linaro.org/resource/hkg18/hkg18-500k1/,http://connect.linaro.org/resource/hkg18/hkg18-500k1/,"Keynote,Linaro,HKG18",http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-500k1.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-500k1.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-500k1.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-500k1.png,
+HKG18-500K2,2018/03/23 9:15:00,2018/03/23 9:45:00,"Keynote: Laura Dekker ""The Machine as Alien Ethnographer: Advanced Computation, Open Source Systems and Art""","Keynote: Laura Dekker ""The Machine as Alien Ethnographer: Advanced Computation, Open Source Systems and Art"" - HKG18-500K2",Grand Ballroom II (Keynote),"Session ID: HKG18-500K2
+Session Name: Keynote: Laura Dekker ""The Machine as Alien Ethnographer: Advanced Computation, Open Source Systems and Art"" - HKG18-500K2
+Speaker: Laura Dekker
+Track: 
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-500k2/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-500k2.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-500k2.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom II (Keynote),HKG18-501,,Laura Dekker,,laura@theretohere.co.uk,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,17,pad.linaro.org/p/hkg18-500k2,http://connect.linaro.org/resource/hkg18/hkg18-500k2/,http://connect.linaro.org/resource/hkg18/hkg18-500k2/,"Keynote,Linaro,HKG18",http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-500k2.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-500k2.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-500k2.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-500k2.png,
+HKG18-501,2018/03/23 10:30:00,2018/03/23 11:25:00,EAS on Common Kernel 4.14 and getting (much) closer to mainline,EAS on Common Kernel 4.14 and getting (much) closer to mainline - HKG18-501,Grand Ballroom II (Keynote),"Session ID: HKG18-501
+Session Name: EAS on Common Kernel 4.14 and getting (much) closer to mainline - HKG18-501
+Speaker: Chris Redpath
+Track: Mobile, Kernel
+
+
+★ Session Summary ★
+Grand Ballroom II (Keynote)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-501/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-501.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-501.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Mobile, Kernel
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-502,"Mobile, Kernel",Chris Redpath,Principal Software Engineer,chris.redpath@arm.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,6,pad.linaro.org/p/hkg18-501,http://connect.linaro.org/resource/hkg18/hkg18-501/,http://connect.linaro.org/resource/hkg18/hkg18-501/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-501.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-501.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-501.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-501.png,
+HKG18-502,2018/03/23 10:30:00,2018/03/23 10:55:00,SVE in GCC/LLVM,SVE in GCC/LLVM - HKG18-502,Grand Ballroom I (Session 1),"Session ID: HKG18-502
+Session Name: SVE in GCC/LLVM - HKG18-502
+Speaker: Not Found
+Track: Tools
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-502/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-502.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-502.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Tools
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-503,Tools,Not Found,Not Found,"renato.golin@linaro.org,richard.sandiford@linaro.org",Not Found,10,pad.linaro.org/p/hkg18-502,http://connect.linaro.org/resource/hkg18/hkg18-502/,http://connect.linaro.org/resource/hkg18/hkg18-502/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-502.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-502.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-502.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-502.png,
+HKG18-503,2018/03/23 10:30:00,2018/03/23 10:55:00,My code is being hacked!,My code is being hacked! - HKG18-503,Berlin (Session Room II),"Session ID: HKG18-503
+Session Name: My code is being hacked! - HKG18-503
+Speaker: Not Found
+Track: Enterprise, Security
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-503/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-503.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-503.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise, Security
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-506,"Enterprise, Security",Not Found,Not Found,"joakim.bech@linaro.org,ard.biesheuvel@linaro.org",Not Found,6,pad.linaro.org/p/hkg18-503,http://connect.linaro.org/resource/hkg18/hkg18-503/,http://connect.linaro.org/resource/hkg18/hkg18-503/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-503.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-503.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-503.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-503.png,
+HKG18-506,2018/03/23 11:00:00,2018/03/23 11:25:00,HCQC : HPC Compiler Quality Checker,HCQC : HPC Compiler Quality Checker - HKG18-506,Grand Ballroom I (Session 1),"Session ID: HKG18-506
+Session Name: HCQC : HPC Compiler Quality Checker - HKG18-506
+Speaker: Arai Masaki
+Track: Tools
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-506/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-506.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-506.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Tools
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Registration Desk (Ballroom Foyer),HKG18-Reg5,Tools,Arai Masaki,Senior Researcher,masaki.arai@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,8,pad.linaro.org/p/hkg18-506,http://connect.linaro.org/resource/hkg18/hkg18-506/,http://connect.linaro.org/resource/hkg18/hkg18-506/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-506.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-506.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-506.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-506.png,
+HKG18-507,2018/03/23 11:00:00,2018/03/23 11:55:00,Preparing for future security exploit mitigations,Preparing for future security exploit mitigations - HKG18-507,Berlin (Session Room II),"Session ID: HKG18-507
+Session Name: Preparing for future security exploit mitigations - HKG18-507
+Speaker: Jon Masters
+Track: Enterprise, Security
+
+
+★ Session Summary ★
+Berlin (Session Room II)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-507/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-507.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-507.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise, Security
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Registration Desk (Ballroom Foyer),HKG18-Reg6,"Enterprise, Security",Jon Masters,Chief Arm Architect at Red Hat; Tech Lead for Red Hat Enterprise Linux for ARM,jcm@redhat.com,https://hkg18.pathable.com/static/user_profiles/404207/photo/full/1474354587.jpg?1474354587,9,pad.linaro.org/p/hkg18-507,http://connect.linaro.org/resource/hkg18/hkg18-507/,http://connect.linaro.org/resource/hkg18/hkg18-507/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-507.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-507.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-507.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-507.png,
+HKG18-508,2018/03/23 11:00:00,2018/03/23 11:25:00,An overview of Fedora Atomic for IoT running on ARM,An overview of Fedora Atomic for IoT running on ARM - HKG18-508,Ottawa + Moscow (Session Room III),"Session ID: HKG18-508
+Session Name: An overview of Fedora Atomic for IoT running on ARM - HKG18-508
+Speaker: Peter Robinson
+Track: IoT, Embedded
+
+
+★ Session Summary ★
+Ottawa + Moscow (Session Room III)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-508/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-508.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-508.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: IoT, Embedded
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-TR01,"IoT, Embedded",Peter Robinson,Senior Software Engineer,pbrobinson@redhat.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,6,pad.linaro.org/p/hkg18-508,http://connect.linaro.org/resource/hkg18/hkg18-508/,http://connect.linaro.org/resource/hkg18/hkg18-508/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-508.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-508.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-508.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-508.png,
+HKG18-510,2018/03/23 11:30:00,2018/03/23 11:55:00,Zun - OpenStack Container Management Service,Zun - OpenStack Container Management Service - HKG18-510,Grand Ballroom I (Session 1),"Session ID: HKG18-510
+Session Name: Zun - OpenStack Container Management Service - HKG18-510
+Speaker: Kevin Zhao
+Track: Enterprise
+
+
+★ Session Summary ★
+Grand Ballroom I (Session 1)
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-510/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-510.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-510.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: Enterprise
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-TR02,Enterprise,Kevin Zhao,"Software Engineer, OpenStack Core Reviewer",kevin.zhao@arm.com,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,8,pad.linaro.org/p/hkg18-510,http://connect.linaro.org/resource/hkg18/hkg18-510/,http://connect.linaro.org/resource/hkg18/hkg18-510/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-510.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-510.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-510.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-510.png,
+HKG18-B1,2018/03/19 6:00:00,2018/03/19 6:30:00,Breakfast (For Regal Hotel Guests),Breakfast (For Regal Hotel Guests) - HKG18-B1,Cafe Aficionado,"Session ID: HKG18-B1
+Session Name: Breakfast (For Regal Hotel Guests) - HKG18-B1
+Speaker: Not Found
+Track: F&B
+
+
+★ Session Summary ★
+Cafe Aficionado
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-b1/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-b1.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-b1.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: F&B
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Grand Ballroom I (Session 1),HKG18-TR03,F&B,Not Found,Not Found,,Not Found,5,pad.linaro.org/p/hkg18-b1,http://connect.linaro.org/resource/hkg18/hkg18-b1/,http://connect.linaro.org/resource/hkg18/hkg18-b1/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-b1.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-b1.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-b1.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-b1.png,
+HKG18-B2,2018/03/20 6:00:00,2018/03/20 6:30:00,Breakfast (For Regal Hotel Guests),Breakfast (For Regal Hotel Guests) - HKG18-B2,Cafe Aficionado,"Session ID: HKG18-B2
+Session Name: Breakfast (For Regal Hotel Guests) - HKG18-B2
+Speaker: Not Found
+Track: F&B
+
+
+★ Session Summary ★
+Cafe Aficionado
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-b2/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-b2.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-b2.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: F&B
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-TR04,F&B,Not Found,Not Found,,Not Found,5,pad.linaro.org/p/hkg18-b2,http://connect.linaro.org/resource/hkg18/hkg18-b2/,http://connect.linaro.org/resource/hkg18/hkg18-b2/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-b2.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-b2.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-b2.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-b2.png,
+HKG18-B3,2018/03/21 6:00:00,2018/03/21 6:30:00,Breakfast (For Regal Hotel Guests),Breakfast (For Regal Hotel Guests) - HKG18-B3,Cafe Aficionado,"Session ID: HKG18-B3
+Session Name: Breakfast (For Regal Hotel Guests) - HKG18-B3
+Speaker: Not Found
+Track: F&B
+
+
+★ Session Summary ★
+Cafe Aficionado
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-b3/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-b3.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-b3.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: F&B
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-TR08,F&B,Not Found,Not Found,,Not Found,3,pad.linaro.org/p/hkg18-b3,http://connect.linaro.org/resource/hkg18/hkg18-b3/,http://connect.linaro.org/resource/hkg18/hkg18-b3/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-b3.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-b3.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-b3.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-b3.png,
+HKG18-B4,2018/03/22 6:00:00,2018/03/22 6:30:00,Breakfast (For Regal Hotel Guests),Breakfast (For Regal Hotel Guests) - HKG18-B4,Cafe Aficionado,"Session ID: HKG18-B4
+Session Name: Breakfast (For Regal Hotel Guests) - HKG18-B4
+Speaker: Not Found
+Track: F&B
+
+
+★ Session Summary ★
+Cafe Aficionado
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-b4/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-b4.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-b4.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: F&B
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Ottawa + Moscow (Session Room III),HKG18-TR09,F&B,Not Found,Not Found,,Not Found,4,pad.linaro.org/p/hkg18-b4,http://connect.linaro.org/resource/hkg18/hkg18-b4/,http://connect.linaro.org/resource/hkg18/hkg18-b4/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-b4.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-b4.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-b4.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-b4.png,
+HKG18-B5,2018/03/23 6:00:00,2018/03/23 6:30:00,Breakfast (For Regal Hotel Guests),Breakfast (For Regal Hotel Guests) - HKG18-B5,Cafe Aficionado,"Session ID: HKG18-B5
+Session Name: Breakfast (For Regal Hotel Guests) - HKG18-B5
+Speaker: Not Found
+Track: F&B
+
+
+★ Session Summary ★
+Cafe Aficionado
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-b5/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-b5.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-b5.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: F&B
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-TR10,F&B,Not Found,Not Found,,Not Found,4,pad.linaro.org/p/hkg18-b5,http://connect.linaro.org/resource/hkg18/hkg18-b5/,http://connect.linaro.org/resource/hkg18/hkg18-b5/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-b5.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-b5.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-b5.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-b5.png,
+HKG18-CB1,2018/03/19 10:00:00,2018/03/19 11:00:00,AM Coffee Break,AM Coffee Break - HKG18-CB1,,"Session ID: HKG18-CB1
+Session Name: AM Coffee Break - HKG18-CB1
+Speaker: Not Found
+Track: 
+
+
+★ Session Summary ★
+
+---------------------------------------------------
+★ Resources ★
+Event Page: http://connect.linaro.org/resource/hkg18/hkg18-cb1/
+Presentation: http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-cb1.pdf
+Video: http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-cb1.mp4
+ ---------------------------------------------------
+★ Event Details ★
+Linaro Connect Hong Kong 2018 (HKG18)
+19-23 March 2018 
+Regal Airport Hotel Hong Kong
+
+---------------------------------------------------
+Keyword: 
+'http://www.linaro.org'
+'http://connect.linaro.org'
+---------------------------------------------------
+Follow us on Social Media
+https://www.facebook.com/LinaroOrg
+https://twitter.com/linaroorg
+https://www.youtube.com/user/linaroorg?sub_confirmation=1
+https://www.linkedin.com/company/1026961",Berlin (Session Room II),HKG18-TR11,,Not Found,Not Found,,Not Found,4,pad.linaro.org/p/hkg18-cb1,http://connect.linaro.org/resource/hkg18/hkg18-cb1/,http://connect.linaro.org/resource/hkg18/hkg18-cb1/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-cb1.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-cb1.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-cb1.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-cb1.png,
+HKG18-CB2,2018/03/19 15:30:00,2018/03/19 16:30:00,PM Coffee Break,PM Coffee Break - HKG18-CB2,,,,,,Not Found,Not Found,,Not Found,1,pad.linaro.org/p/hkg18-cb2,http://connect.linaro.org/resource/hkg18/hkg18-cb2/,http://connect.linaro.org/resource/hkg18/hkg18-cb2/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-cb2.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-cb2.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-cb2.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-cb2.png,
+HKG18-CB3,2018/03/20 10:00:00,2018/03/20 11:00:00,AM Coffee Break,AM Coffee Break - HKG18-CB3,,,,,,Not Found,Not Found,,Not Found,5,pad.linaro.org/p/hkg18-cb3,http://connect.linaro.org/resource/hkg18/hkg18-cb3/,http://connect.linaro.org/resource/hkg18/hkg18-cb3/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-cb3.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-cb3.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-cb3.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-cb3.png,
+HKG18-CB4,2018/03/20 15:30:00,2018/03/20 16:30:00,PM Coffee Break,PM Coffee Break - HKG18-CB4,,,,,,Not Found,Not Found,,Not Found,4,pad.linaro.org/p/hkg18-cb4,http://connect.linaro.org/resource/hkg18/hkg18-cb4/,http://connect.linaro.org/resource/hkg18/hkg18-cb4/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-cb4.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-cb4.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-cb4.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-cb4.png,
+HKG18-CB5,2018/03/21 10:00:00,2018/03/21 11:00:00,AM Coffee Break,AM Coffee Break - HKG18-CB5,,,,,,Not Found,Not Found,,Not Found,4,pad.linaro.org/p/hkg18-cb5,http://connect.linaro.org/resource/hkg18/hkg18-cb5/,http://connect.linaro.org/resource/hkg18/hkg18-cb5/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-cb5.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-cb5.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-cb5.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-cb5.png,
+HKG18-CB6,2018/03/21 15:30:00,2018/03/21 16:30:00,PM Coffee Break,PM Coffee Break - HKG18-CB6,,,,,,Not Found,Not Found,,Not Found,3,pad.linaro.org/p/hkg18-cb6,http://connect.linaro.org/resource/hkg18/hkg18-cb6/,http://connect.linaro.org/resource/hkg18/hkg18-cb6/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-cb6.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-cb6.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-cb6.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-cb6.png,
+HKG18-CB7,2018/03/22 10:00:00,2018/03/22 11:00:00,AM Coffee Break,AM Coffee Break - HKG18-CB7,,,,,,Not Found,Not Found,,Not Found,4,pad.linaro.org/p/hkg18-cb7,http://connect.linaro.org/resource/hkg18/hkg18-cb7/,http://connect.linaro.org/resource/hkg18/hkg18-cb7/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-cb7.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-cb7.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-cb7.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-cb7.png,
+HKG18-CB8,2018/03/22 15:30:00,2018/03/22 16:30:00,PM Coffee Break,PM Coffee Break - HKG18-CB8,,,,,,Not Found,Not Found,,Not Found,3,pad.linaro.org/p/hkg18-cb8,http://connect.linaro.org/resource/hkg18/hkg18-cb8/,http://connect.linaro.org/resource/hkg18/hkg18-cb8/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-cb8.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-cb8.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-cb8.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-cb8.png,
+HKG18-CB9,2018/03/23 10:00:00,2018/03/23 10:25:00,AM Coffee Break,AM Coffee Break - HKG18-CB9,,,,,,Not Found,Not Found,,Not Found,3,pad.linaro.org/p/hkg18-cb9,http://connect.linaro.org/resource/hkg18/hkg18-cb9/,http://connect.linaro.org/resource/hkg18/hkg18-cb9/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-cb9.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-cb9.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-cb9.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-cb9.png,
+HKG18-ClosingandDemo,2018/03/23 12:00:00,2018/03/23 14:00:00,"Closing Remarks, Demo Showcase and Lunch","Closing Remarks, Demo Showcase and Lunch - HKG18-ClosingandDemo",Grand Ballroom III (Committee Room I),,,,F&B,Not Found,Not Found,,Not Found,325,pad.linaro.org/p/hkg18-closinganddemo,http://connect.linaro.org/resource/hkg18/hkg18-closinganddemo/,http://connect.linaro.org/resource/hkg18/hkg18-closinganddemo/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-closinganddemo.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-closinganddemo.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-closinganddemo.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-closinganddemo.png,
+HKG18-Emp1,2018/03/19 17:00:00,2018/03/19 17:55:00,Linaro Town Hall (Employees and Assignees Meeting),Linaro Town Hall (Employees and Assignees Meeting) - HKG18-Emp1,Grand Ballroom II (Keynote),,,,,Not Found,Not Found,,Not Found,17,pad.linaro.org/p/hkg18-emp1,http://connect.linaro.org/resource/hkg18/hkg18-emp1/,http://connect.linaro.org/resource/hkg18/hkg18-emp1/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-emp1.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-emp1.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-emp1.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-emp1.png,
+HKG18-GroupPhoto,2018/03/19 10:00:00,2018/03/19 10:25:00,Group Photo,Group Photo - HKG18-GroupPhoto,TBD,,,,,Not Found,Not Found,,Not Found,325,pad.linaro.org/p/hkg18-groupphoto,http://connect.linaro.org/resource/hkg18/hkg18-groupphoto/,http://connect.linaro.org/resource/hkg18/hkg18-groupphoto/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-groupphoto.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-groupphoto.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-groupphoto.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-groupphoto.png,
+HKG18-L1,2018/03/19 13:00:00,2018/03/19 13:55:00,Lunch at Cafe Aficionado,Lunch at Cafe Aficionado - HKG18-L1,Cafe Aficionado,,,,F&B,Not Found,Not Found,,Not Found,9,pad.linaro.org/p/hkg18-l1,http://connect.linaro.org/resource/hkg18/hkg18-l1/,http://connect.linaro.org/resource/hkg18/hkg18-l1/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-l1.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-l1.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-l1.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-l1.png,
+HKG18-L2,2018/03/20 13:00:00,2018/03/20 13:55:00,Lunch at Cafe Aficionado,Lunch at Cafe Aficionado - HKG18-L2,Cafe Aficionado,,,,F&B,Not Found,Not Found,,Not Found,9,pad.linaro.org/p/hkg18-l2,http://connect.linaro.org/resource/hkg18/hkg18-l2/,http://connect.linaro.org/resource/hkg18/hkg18-l2/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-l2.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-l2.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-l2.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-l2.png,
+HKG18-L3,2018/03/21 13:00:00,2018/03/21 13:55:00,Lunch at Cafe Aficionado,Lunch at Cafe Aficionado - HKG18-L3,Cafe Aficionado,,,,F&B,Not Found,Not Found,,Not Found,6,pad.linaro.org/p/hkg18-l3,http://connect.linaro.org/resource/hkg18/hkg18-l3/,http://connect.linaro.org/resource/hkg18/hkg18-l3/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-l3.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-l3.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-l3.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-l3.png,
+HKG18-L4,2018/03/22 13:00:00,2018/03/22 13:55:00,Lunch at Cafe Aficionado,Lunch at Cafe Aficionado - HKG18-L4,Cafe Aficionado,,,,F&B,Not Found,Not Found,,Not Found,6,pad.linaro.org/p/hkg18-l4,http://connect.linaro.org/resource/hkg18/hkg18-l4/,http://connect.linaro.org/resource/hkg18/hkg18-l4/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-l4.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-l4.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-l4.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-l4.png,
+HKG18-Notices1,2018/03/19 8:30:00,2018/03/19 8:45:00,Monday Morning Welcome and Opening Remarks (Joe Bates),Monday Morning Welcome and Opening Remarks (Joe Bates) - HKG18-Notices1,Grand Ballroom II (Keynote),,,,,Not Found,Not Found,,Not Found,325,pad.linaro.org/p/hkg18-notices1,http://connect.linaro.org/resource/hkg18/hkg18-notices1/,http://connect.linaro.org/resource/hkg18/hkg18-notices1/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-notices1.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-notices1.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-notices1.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-notices1.png,
+HKG18-Notices2,2018/03/20 8:30:00,2018/03/20 8:45:00,Tuesday Morning Notices (Joe Bates),Tuesday Morning Notices (Joe Bates) - HKG18-Notices2,Grand Ballroom II (Keynote),,,,,Not Found,Not Found,,Not Found,325,pad.linaro.org/p/hkg18-notices2,http://connect.linaro.org/resource/hkg18/hkg18-notices2/,http://connect.linaro.org/resource/hkg18/hkg18-notices2/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-notices2.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-notices2.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-notices2.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-notices2.png,
+HKG18-Notices3,2018/03/21 8:30:00,2018/03/21 8:45:00,Wednesday Morning Notices (Joe Bates),Wednesday Morning Notices (Joe Bates) - HKG18-Notices3,Grand Ballroom II (Keynote),,,,,Not Found,Not Found,,Not Found,325,pad.linaro.org/p/hkg18-notices3,http://connect.linaro.org/resource/hkg18/hkg18-notices3/,http://connect.linaro.org/resource/hkg18/hkg18-notices3/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-notices3.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-notices3.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-notices3.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-notices3.png,
+HKG18-Notices4,2018/03/22 8:30:00,2018/03/22 8:45:00,Thursday Morning Notices (Joe Bates),Thursday Morning Notices (Joe Bates) - HKG18-Notices4,Grand Ballroom II (Keynote),,,,,Not Found,Not Found,,Not Found,325,pad.linaro.org/p/hkg18-notices4,http://connect.linaro.org/resource/hkg18/hkg18-notices4/,http://connect.linaro.org/resource/hkg18/hkg18-notices4/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-notices4.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-notices4.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-notices4.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-notices4.png,
+HKG18-Notices5,2018/03/23 8:30:00,2018/03/23 8:45:00,Friday Morning Notices (Joe Bates),Friday Morning Notices (Joe Bates) - HKG18-Notices5,Grand Ballroom II (Keynote),,,,,Not Found,Not Found,,Not Found,325,pad.linaro.org/p/hkg18-notices5,http://connect.linaro.org/resource/hkg18/hkg18-notices5/,http://connect.linaro.org/resource/hkg18/hkg18-notices5/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-notices5.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-notices5.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-notices5.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-notices5.png,
+HKG18-Reg2,2018/03/19 6:30:00,2018/03/19 7:00:00,Registration / Information,Registration / Information - HKG18-Reg2,Registration Desk (Ballroom Foyer),,,,,Not Found,Not Found,,Not Found,4,pad.linaro.org/p/hkg18-reg2,http://connect.linaro.org/resource/hkg18/hkg18-reg2/,http://connect.linaro.org/resource/hkg18/hkg18-reg2/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-reg2.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-reg2.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-reg2.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-reg2.png,
+HKG18-Reg3,2018/03/20 7:00:00,2018/03/20 7:30:00,Registration / Information,Registration / Information - HKG18-Reg3,Registration Desk (Ballroom Foyer),,,,,Not Found,Not Found,,Not Found,1,pad.linaro.org/p/hkg18-reg3,http://connect.linaro.org/resource/hkg18/hkg18-reg3/,http://connect.linaro.org/resource/hkg18/hkg18-reg3/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-reg3.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-reg3.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-reg3.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-reg3.png,
+HKG18-Reg4,2018/03/21 7:00:00,2018/03/21 7:30:00,Registration / Information,Registration / Information - HKG18-Reg4,Registration Desk (Ballroom Foyer),,,,,Not Found,Not Found,,Not Found,1,pad.linaro.org/p/hkg18-reg4,http://connect.linaro.org/resource/hkg18/hkg18-reg4/,http://connect.linaro.org/resource/hkg18/hkg18-reg4/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-reg4.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-reg4.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-reg4.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-reg4.png,
+HKG18-Reg5,2018/03/22 7:30:00,2018/03/22 8:00:00,Registration / Information,Registration / Information - HKG18-Reg5,Registration Desk (Ballroom Foyer),,,,,Not Found,Not Found,,Not Found,1,pad.linaro.org/p/hkg18-reg5,http://connect.linaro.org/resource/hkg18/hkg18-reg5/,http://connect.linaro.org/resource/hkg18/hkg18-reg5/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-reg5.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-reg5.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-reg5.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-reg5.png,
+HKG18-Reg6,2018/03/23 7:30:00,2018/03/23 8:00:00,Registration / Information,Registration / Information - HKG18-Reg6,Registration Desk (Ballroom Foyer),,,,,Not Found,Not Found,,Not Found,1,pad.linaro.org/p/hkg18-reg6,http://connect.linaro.org/resource/hkg18/hkg18-reg6/,http://connect.linaro.org/resource/hkg18/hkg18-reg6/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-reg6.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-reg6.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-reg6.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-reg6.png,
+HKG18-TR01,2018/03/20 14:00:00,2018/03/20 14:55:00,Philosophy of Open Source,Philosophy of Open Source - HKG18-TR01,Grand Ballroom I (Session 1),,,,Training,Not Found,Not Found,,Not Found,4,pad.linaro.org/p/hkg18-tr01,http://connect.linaro.org/resource/hkg18/hkg18-tr01/,http://connect.linaro.org/resource/hkg18/hkg18-tr01/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr01.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr01.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-tr01.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-tr01.png,
+HKG18-TR02,2018/03/20 15:00:00,2018/03/20 15:55:00,Upstreaming 101,Upstreaming 101 - HKG18-TR02,Grand Ballroom I (Session 1),,,,Training,Not Found,Not Found,,Not Found,3,pad.linaro.org/p/hkg18-tr02,http://connect.linaro.org/resource/hkg18/hkg18-tr02/,http://connect.linaro.org/resource/hkg18/hkg18-tr02/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr02.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr02.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-tr02.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-tr02.png,
+HKG18-TR03,2018/03/20 16:00:00,2018/03/20 16:55:00,Upstreaming 201,Upstreaming 201 - HKG18-TR03,Grand Ballroom I (Session 1),,,,Training,Not Found,Not Found,,Not Found,3,pad.linaro.org/p/hkg18-tr03,http://connect.linaro.org/resource/hkg18/hkg18-tr03/,http://connect.linaro.org/resource/hkg18/hkg18-tr03/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr03.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr03.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-tr03.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-tr03.png,
+HKG18-TR04,2018/03/20 14:00:00,2018/03/20 14:25:00,Using the Clang developer tools,Using the Clang developer tools - HKG18-TR04,Ottawa + Moscow (Session Room III),,,,Training,Peter Smith,Principal Engineer,peter.smith@linaro.org,https://hkg18.pathable.com/assets/user/full-011dbf1dff775b23f0f853f4f9aac853.gif,9,pad.linaro.org/p/hkg18-tr04,http://connect.linaro.org/resource/hkg18/hkg18-tr04/,http://connect.linaro.org/resource/hkg18/hkg18-tr04/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr04.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr04.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-tr04.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-tr04.png,
+HKG18-TR08,2018/03/22 14:00:00,2018/03/22 14:55:00,Upstreaming SVE in QEMU,Upstreaming SVE in QEMU - HKG18-TR08,Ottawa + Moscow (Session Room III),,,,Enterprise,Not Found,Not Found,"alex.bennee@linaro.org,richard.henderson@linaro.org",Not Found,8,pad.linaro.org/p/hkg18-tr08,http://connect.linaro.org/resource/hkg18/hkg18-tr08/,http://connect.linaro.org/resource/hkg18/hkg18-tr08/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr08.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr08.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-tr08.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-tr08.png,
+HKG18-TR09,2018/03/20 15:00:00,2018/03/20 15:55:00,Power Management Features - An Overview,Power Management Features - An Overview - HKG18-TR09,Ottawa + Moscow (Session Room III),,,,Training,Not Found,Not Found,,Not Found,8,pad.linaro.org/p/hkg18-tr09,http://connect.linaro.org/resource/hkg18/hkg18-tr09/,http://connect.linaro.org/resource/hkg18/hkg18-tr09/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr09.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr09.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-tr09.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-tr09.png,
+HKG18-TR10,2018/03/22 14:00:00,2018/03/22 14:55:00,Best practices for getting devices in LAVA,Best practices for getting devices in LAVA - HKG18-TR10,Berlin (Session Room II),,,,Training,Neil Williams,LAVA Software tech lead,neil.williams@linaro.org,https://hkg18.pathable.com/static/user_profiles/402130/photo/full/1421746908.jpeg?1421746908,10,pad.linaro.org/p/hkg18-tr10,http://connect.linaro.org/resource/hkg18/hkg18-tr10/,http://connect.linaro.org/resource/hkg18/hkg18-tr10/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr10.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr10.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-tr10.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-tr10.png,
+HKG18-TR11,2018/03/22 15:00:00,2018/03/22 15:55:00,LAVA on your desk BoF,LAVA on your desk BoF - HKG18-TR11,Berlin (Session Room II),,,,Training,Bill Fletcher,EMEA Engineering,bill.fletcher@linaro.org,https://hkg18.pathable.com/static/user_profiles/402160/photo/full/1423329086.jpg?1423329086,13,pad.linaro.org/p/hkg18-tr11,http://connect.linaro.org/resource/hkg18/hkg18-tr11/,http://connect.linaro.org/resource/hkg18/hkg18-tr11/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr11.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr11.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-tr11.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-tr11.png,
+HKG18-TR12,2018/03/22 16:00:00,2018/03/22 16:55:00,LAVA for LITE Platforms and Tests,LAVA for LITE Platforms and Tests - HKG18-TR12,Berlin (Session Room II),,,,Training,Bill Fletcher,EMEA Engineering,bill.fletcher@linaro.org,https://hkg18.pathable.com/static/user_profiles/402160/photo/full/1423329086.jpg?1423329086,7,pad.linaro.org/p/hkg18-tr12,http://connect.linaro.org/resource/hkg18/hkg18-tr12/,http://connect.linaro.org/resource/hkg18/hkg18-tr12/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr12.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr12.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-tr12.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-tr12.png,
+HKG18-TR14,2018/03/22 15:00:00,2018/03/22 15:55:00,Postmortem Debugging with Coresight,Postmortem Debugging with Coresight - HKG18-TR14,Ottawa + Moscow (Session Room III),,,,Training,Leo Yan,Software Engineer,leo.yan@linaro.org,https://hkg18.pathable.com/static/user_profiles/402339/photo/full/1439348691.JPG?1439348691,,pad.linaro.org/p/hkg18-tr14,http://connect.linaro.org/resource/hkg18/hkg18-tr14/,http://connect.linaro.org/resource/hkg18/hkg18-tr14/,,http://connect.linaro.org.s3.amazonaws.com/hkg18/videos/hkg18-tr14.mp4,http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-tr14.pdf,FALSE,FALSE,,,http://connect.linaro.org.s3.amazonaws.com/hkg18/thumbnails/hkg18-tr14.png,http://connect.linaro.org.s3.amazonaws.com/hkg18/video-thumbnails/hkg18-tr14.png,
+,,,, - ,,,,,,,,,,,,,,,,,,,,,,,
+,,,, - ,,,,,,,,,,,,,,,,,,,,,,,
+,,,, - ,,,,,,,,,,,,,,,,,,,,,,,
+,,,, - ,,,,,,,,,,,,,,,,,,,,,,,
+,,,, - ,,,,,,,,,,,,,,,,,,,,,,,
+,,,, - ,,,,,,,,,,,,,,,,,,,,,,,
+,,,, - ,,,,,,,,,,,,,,,,,,,,,,,
